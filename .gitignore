@@ -7,7 +7,6 @@ WK\ Cold\ Mails
 WK\ FIR
 WK\ LEG
 WK\ PUB
-logo-wolters-kluwer.png
 
 #Ingored Templates
 Cold\ Mail\ Template.mjml
@@ -15,4 +14,3 @@ Newsletter\ Confirmation.mjml
 vCard.mjml
 
 #Ignored Includes
-Prawo.cc\ Footer.mjml
