@@ -1,0 +1,31 @@
+<mj-section background-color="#767676">
+        <mj-column width="95%" vertical-align="top">
+          <mj-text color="#ffffff" padding="10">
+            Wolters Kluwer Polska SA, 01&#8209;208 Warszawa, ul. Przyokopowa 33, <a href="http://www.wolterskluwer.pl" style="color:#ffffff;">www.wolterskluwer.pl</a>, e&#8209;mail: <a href="mailto:handel@wolterskluwer.pl" target="_blank" class="white-link" style="color:#ffffff;">handel@wolterskluwer.pl</a>; NIP:&nbsp;583&#8209;001&#8209;89&#8209;31; Regon:&nbsp;190610277; Sąd Rejonowy dla m.&#8203;st. Warszawy XII Wydział Gospodarczy Krajowego Rejestru Sądowego, numer KRS&nbsp;0000441434, Kapitał zakładowy 15.000.524&nbsp;PLN
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#767676" padding-top="0">
+        <mj-group>
+         <mj-column width="50%">
+          <mj-text align="left" color="#b2b2b2" font-size="18" padding-left="30" padding-top="0">
+            <p>Przydatne</p>
+            <span style="font-family:Calibri,'Trebuchet MS',Arial,sans-serif; font-size:16px; line-height:18px; font-weight:normal; color:#ffffff;" valign="top"><a href="http://serwis.wolterskluwer.pl/" style="color:#ffffff; text-decoration:none" target="_blank"><p>Pomoc</p></a></span>
+            <span style="font-family:Calibri,'Trebuchet MS',Arial,sans-serif; font-size:16px; line-height:18px; font-weight:normal; color:#ffffff;" valign="top"><a href="http://www.wolterskluwer.pl/kontakt" style="color:#ffffff; text-decoration:none" target="_blank"><p>Kontakt</p></a></span>
+          </mj-text>
+         </mj-column>
+         <mj-column width="50%">
+          <mj-text align="left" color="#b2b2b2"  font-size="18" padding-top="0">
+            <p>Dołącz do nas</p>
+            <a href="https://www.facebook.com/WoltersKluwerPL" style="border:0; outline:none;" target="_blank"><img alt="Facebook" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B1119cccc-1909-44a3-bc7e-0d8823f7e471%7D_facebook.jpg" style="border:0; outline:none;" /></a>
+            <a href="https://twitter.com/WoltersKluwerPL" style="border:0; outline:none;" target="_blank"><img alt="Twitter" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B4df4cd5b-e312-45f8-b4c6-c4abbcd67e6b%7D_twitter.jpg" style="border:0; outline:none;" /></a>
+            <a href="https://www.youtube.com/channel/UCKwYqJtsHy0ShFNJnyNirQw" style="border:0; outline:none;" target="_blank"><img alt="YouTube" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B2e14e239-f8c2-49a0-b4e5-14d8f9552c2e%7D_youtube.jpg" style="border:0; outline:none;" /></a>
+          </mj-text>
+         </mj-column>
+         </mj-group>
+         <mj-column width="50%" vertical-align="top">
+          <mj-text align="center" color="#b2b2b2" font-size="18" padding-top="20">
+            <a href="http://www.wolterskluwer.pl/" style="border:0; outline:none;" target="_blank"><img alt="Wolters Kluwer" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B4315bdf9-c32b-4369-ad4c-40eb7df10b86%7D_footer-logo.png" style="border:0; outline:none;" /></a>
+          </mj-text>
+         </mj-column>
+      </mj-section>

@@ -1,0 +1,7 @@
+<mj-section background-color="#f0f0f0" padding-bottom="20" padding-top="20">
+          <mj-column width="100%">
+            <mj-text align="center" color="#767676" font-size="11" editable="false" padding-left="25" padding-right="25">
+              Chcesz zmienić swoje ustawienia? Możesz <a href="http://info.wolterskluwer.pl/WKPL-SubscriptionCenter" style="color:#767676;" target="_blank">zaktualizować swoje dane albo się wypisać</a>.
+            </mj-text>
+          </mj-column>
+        </mj-section>

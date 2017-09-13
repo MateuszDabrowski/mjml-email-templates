@@ -1,0 +1,7 @@
+<mj-section>
+        <mj-column>
+                <mj-include path="../WK Include/post-header1.mjml" />
+          Pre-header
+                <mj-include path="../WK Include/post-header2.mjml" />
+        </mj-column>
+      </mj-section>
