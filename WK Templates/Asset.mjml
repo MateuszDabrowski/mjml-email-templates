@@ -73,6 +73,10 @@
     		mso-style-priority:100 !important;
    		  color:#007ac3 !important;
 			} 
+      a {
+      mso-style-priority:100 !important;
+      text-decoration: none !important;
+      }
     </mj-style>
     
       </mj-head>
