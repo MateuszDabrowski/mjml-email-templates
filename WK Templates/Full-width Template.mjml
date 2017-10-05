@@ -115,13 +115,13 @@
       <!-- Logo i wyświetlanie w przeglądarce -->
       <mj-section padding-bottom="20">
         <mj-column width="50%">
-          <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
+          <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
           </mj-image>
         </mj-column>
         <mj-column width="50%">
           <mj-text mj-class="center grey" font-size="13" padding-top="16">
             <span style="font-size: 13px">
-              <a href="http://app.go.wolterskluwer.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #767676;">Wyświetl w przeglądarce
+              <a href="https://s1364398973.t.en25.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #767676;">Wyświetl w przeglądarce
               </a>
             </span>
           </mj-text>
@@ -220,7 +220,7 @@
       <!-- Trójkąt -->
           <mj-section>
         <mj-column>
-          <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B83c0cbe7-9c23-435b-8668-fb869d87a875%7D_Triangle_White2Gray.png"></mj-image>
+          <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B83c0cbe7-9c23-435b-8668-fb869d87a875%7D_Triangle_White2Gray.png"></mj-image>
  </mj-column>
           </mj-section>
           
@@ -236,7 +236,7 @@
         </mj-section>
           <mj-section padding-top="25" padding-bottom="25">
         <mj-column width="33%">
-          <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B93812635-06eb-4a6e-9842-1b0fc8eeccab%7D_Artboard.png"  width="150">
+          <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B93812635-06eb-4a6e-9842-1b0fc8eeccab%7D_Artboard.png"  width="150">
           </mj-image>
           <mj-text mj-class="h">
             Małgorzata Skibińska
@@ -246,7 +246,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="33%">
-          <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B93812635-06eb-4a6e-9842-1b0fc8eeccab%7D_Artboard.png"  width="150">
+          <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B93812635-06eb-4a6e-9842-1b0fc8eeccab%7D_Artboard.png"  width="150">
           </mj-image>
           <mj-text mj-class="h">
             Małgorzata Skibińska
@@ -256,7 +256,7 @@
           </mj-text>
         </mj-column>
             <mj-column width="33%">
-          <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B93812635-06eb-4a6e-9842-1b0fc8eeccab%7D_Artboard.png"  width="150">
+          <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B93812635-06eb-4a6e-9842-1b0fc8eeccab%7D_Artboard.png"  width="150">
           </mj-image>
           <mj-text mj-class="h">
             Małgorzata Skibińska
@@ -273,13 +273,13 @@
               <!-- Trójkąt -->
              <mj-section>
         <mj-column>
-          <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B6427cb50-1f47-4ce4-8961-7c86be0da962%7D_Triangle_Gray2Blue.png"></mj-image>
+          <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B6427cb50-1f47-4ce4-8961-7c86be0da962%7D_Triangle_Gray2Blue.png"></mj-image>
  </mj-column>
           </mj-section>
             
         <mj-section direction="rtl" padding-top="20" padding-bottom="20">
           <mj-column width="50%">
-            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bdc6c90ad-d47d-42b8-a6e8-124ce9e4e920%7D_Banner_Odwrotne_obciazenie_1.jpg" width="300" >
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bdc6c90ad-d47d-42b8-a6e8-124ce9e4e920%7D_Banner_Odwrotne_obciazenie_1.jpg" width="300" >
           </mj-image>
           </mj-column>
           <mj-column width="50%" >
@@ -293,7 +293,7 @@
             <mj-table padding="10">
               <tr>
                 <td class="icon">
-                  <img src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="40" height="40" border="none">
+                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="40" height="40" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -302,7 +302,7 @@
                 </tr>
               <tr>
                 <td class="icon">
-                  <img src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="40" height="40" border="none">
+                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="40" height="40" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -318,7 +318,7 @@
             <!-- Trójkąt -->
             <mj-section>
         <mj-column>
-          <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B1d767391-e748-48c8-b60d-940a59727fcd%7D_Reverse_Triangle_Grey2DarkBlue.png"></mj-image>
+          <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B1d767391-e748-48c8-b60d-940a59727fcd%7D_Reverse_Triangle_Grey2DarkBlue.png"></mj-image>
  </mj-column>
           </mj-section>
             

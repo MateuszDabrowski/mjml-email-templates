@@ -117,13 +117,13 @@
       <!-- Logo i wyświetlanie w przeglądarce -->
       <mj-section padding-bottom="20">
         <mj-column width="50%">
-          <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
+          <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
           </mj-image>
         </mj-column>
         <mj-column width="50%">
           <mj-text mj-class="center grey" font-size="13" padding-top="16">
             <span style="font-size: 13px">
-              <a href="http://app.go.wolterskluwer.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #767676;">Wyświetl w przeglądarce
+              <a href="https://s1364398973.t.en25.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #767676;">Wyświetl w przeglądarce
               </a>
             </span>
           </mj-text>
@@ -436,7 +436,7 @@
             <mj-table>
               <tr>
                 <td class="icon">
-                  <img src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -448,7 +448,7 @@
               </tr>
               <tr>
                 <td class="icon">
-                  <img src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -460,7 +460,7 @@
               </tr>
               <tr>
                 <td class="icon">
-                  <img src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -472,7 +472,7 @@
               </tr>
               <tr>
                 <td class="icon">
-                  <img src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -512,7 +512,7 @@
           <mj-column width="15%" mj-class="bg-white" vertical-align="top">
             <mj-text mj-class="bg-white" height="26">
             </mj-text>
-            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
             </mj-image>
             <mj-text mj-class="bg-white" height="36">
             </mj-text>
@@ -526,7 +526,7 @@
           <mj-column width="15%" mj-class="bg-white" vertical-align="top">
             <mj-text mj-class="bg-white" height="26">
             </mj-text>
-            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B587754d6-ad47-45c4-aedb-6d8028a199b7%7D_Icon2.png" alt="Pobierz mnie" width="57" height="58" border="none">
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B587754d6-ad47-45c4-aedb-6d8028a199b7%7D_Icon2.png" alt="Pobierz mnie" width="57" height="58" border="none">
             </mj-image>
             <mj-text mj-class="bg-white" height="36">
             </mj-text>
@@ -542,7 +542,7 @@
           <mj-column width="15%" mj-class="bg-white" vertical-align="top">
             <mj-text mj-class="bg-white" height="35">
             </mj-text>
-            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B655df83c-fdf4-4700-a3b2-d20eb8810a90%7D_Icon4.png" alt="Pobierz mnie" width="57" height="58" border="none" >
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B655df83c-fdf4-4700-a3b2-d20eb8810a90%7D_Icon4.png" alt="Pobierz mnie" width="57" height="58" border="none" >
             </mj-image>
             <mj-text mj-class="bg-white" height="37">
             </mj-text>
@@ -556,7 +556,7 @@
           <mj-column width="15%" mj-class="bg-white" vertical-align="top">
             <mj-text mj-class="bg-white" height="35">
             </mj-text>
-            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B965bf742-98c4-4cc7-b4ff-479913b8cb66%7D_Icon1.png" alt="Pobierz mnie" width="57" height="58" border="none">
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B965bf742-98c4-4cc7-b4ff-479913b8cb66%7D_Icon1.png" alt="Pobierz mnie" width="57" height="58" border="none">
             </mj-image>
             <mj-text mj-class="bg-white" height="37">
             </mj-text>
@@ -616,7 +616,7 @@
         </mj-section>
         <mj-section mj-class="bg-blue">
           <mj-column width="15%">
-            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bb7d1f0b0-e756-4624-b25c-9a9dcb11341a%7D_IconLower.png" align="center" padding-top="50" height="85" width="85">
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bb7d1f0b0-e756-4624-b25c-9a9dcb11341a%7D_IconLower.png" align="center" padding-top="50" height="85" width="85">
             </mj-image>
           </mj-column>
           <mj-column width="75%" mj-class="bg-blue">

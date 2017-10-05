@@ -17,15 +17,15 @@
          <mj-column width="50%">
           <mj-text align="left" color="#b2b2b2"  font-size="18" padding-top="0">
             <p>Dołącz do nas</p>
-            <a href="https://www.facebook.com/WoltersKluwerPL" style="border:0; outline:none;" target="_blank"><img alt="Facebook" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B1119cccc-1909-44a3-bc7e-0d8823f7e471%7D_facebook.jpg" style="border:0; outline:none;" /></a>
-            <a href="https://twitter.com/WoltersKluwerPL" style="border:0; outline:none;" target="_blank"><img alt="Twitter" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B4df4cd5b-e312-45f8-b4c6-c4abbcd67e6b%7D_twitter.jpg" style="border:0; outline:none;" /></a>
-            <a href="https://www.youtube.com/channel/UCKwYqJtsHy0ShFNJnyNirQw" style="border:0; outline:none;" target="_blank"><img alt="YouTube" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B2e14e239-f8c2-49a0-b4e5-14d8f9552c2e%7D_youtube.jpg" style="border:0; outline:none;" /></a>
+            <a href="https://www.facebook.com/WoltersKluwerPL" style="border:0; outline:none;" target="_blank"><img alt="Facebook" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B1119cccc-1909-44a3-bc7e-0d8823f7e471%7D_facebook.jpg" style="border:0; outline:none;" /></a>
+            <a href="https://twitter.com/WoltersKluwerPL" style="border:0; outline:none;" target="_blank"><img alt="Twitter" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4df4cd5b-e312-45f8-b4c6-c4abbcd67e6b%7D_twitter.jpg" style="border:0; outline:none;" /></a>
+            <a href="https://www.youtube.com/channel/UCKwYqJtsHy0ShFNJnyNirQw" style="border:0; outline:none;" target="_blank"><img alt="YouTube" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B2e14e239-f8c2-49a0-b4e5-14d8f9552c2e%7D_youtube.jpg" style="border:0; outline:none;" /></a>
           </mj-text>
          </mj-column>
          </mj-group>
          <mj-column width="50%" vertical-align="top">
           <mj-text align="center" color="#b2b2b2" font-size="18" padding-top="20">
-            <a href="http://www.wolterskluwer.pl/" style="border:0; outline:none;" target="_blank"><img alt="Wolters Kluwer" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B4315bdf9-c32b-4369-ad4c-40eb7df10b86%7D_footer-logo.png" style="border:0; outline:none;" /></a>
+            <a href="http://www.wolterskluwer.pl/" style="border:0; outline:none;" target="_blank"><img alt="Wolters Kluwer" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4315bdf9-c32b-4369-ad4c-40eb7df10b86%7D_footer-logo.png" style="border:0; outline:none;" /></a>
           </mj-text>
          </mj-column>
       </mj-section>

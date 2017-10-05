@@ -109,12 +109,12 @@
       <!-- Logo i wyświetlanie w przeglądarce -->
       <mj-section padding-bottom="20">
         <mj-column width="50%">
-          <mj-image align="center" href="http://www.wolterskluwer.pl" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
+          <mj-image align="center" href="http://www.wolterskluwer.pl" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
           </mj-image>
         </mj-column>
         <mj-column width="50%">
           <mj-text align="center" color="#767676" font-size="13" padding-top="16">
-            <span style="font-size: 13px"><a href="http://app.go.wolterskluwer.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #767676;">Wyświetl w przeglądarce</a></span>
+            <span style="font-size: 13px"><a href="https://s1364398973.t.en25.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #767676;">Wyświetl w przeglądarce</a></span>
           </mj-text>
         </mj-column>
       </mj-section>

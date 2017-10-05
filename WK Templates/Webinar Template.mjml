@@ -115,13 +115,13 @@
       <!-- Logo i wyświetlanie w przeglądarce -->
       <mj-section padding-bottom="20">
         <mj-column width="50%">
-          <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
+          <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
           </mj-image>
         </mj-column>
         <mj-column width="50%">
           <mj-text mj-class="center grey" font-size="13" padding-top="16">
             <span style="font-size: 13px">
-              <a href="http://app.go.wolterskluwer.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #767676;">Wyświetl w przeglądarce
+              <a href="https://s1364398973.t.en25.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #767676;">Wyświetl w przeglądarce
               </a>
             </span>
           </mj-text>
@@ -165,7 +165,7 @@ Rozliczanie wynagrodzeń wypłacanych cudzoziemcom
             <mj-table padding="0 10 0 10">
               <tr>
                 <td class="icon">
-                  <img src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B925679d4-c977-4212-8ba6-186e464dafed%7D_calendar_icon.png" alt="Pobierz mnie" width="30" height="30" border="none">
+                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B925679d4-c977-4212-8ba6-186e464dafed%7D_calendar_icon.png" alt="Pobierz mnie" width="30" height="30" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -174,7 +174,7 @@ Rozliczanie wynagrodzeń wypłacanych cudzoziemcom
                 </tr>
               <tr>
                 <td class="icon">
-                  <img src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bcba186ef-0ed0-4d6e-9506-86b3e83533a0%7D_timer_icon.png" alt="Pobierz mnie" width="30" height="30" border="none">
+                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bcba186ef-0ed0-4d6e-9506-86b3e83533a0%7D_timer_icon.png" alt="Pobierz mnie" width="30" height="30" border="none">
                   </img>
                 </td>
                 <td class="table">
