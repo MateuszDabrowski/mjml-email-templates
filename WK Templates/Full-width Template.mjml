@@ -32,7 +32,7 @@
       <mj-class name="bg-grey" background-color="#f0f0f0" />
      
       <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15"  href="http://wolterskluwer.pl" />
-      <mj-image href="http://wolterskluwer.pl" />
+      <mj-image font-size="20" background-color="#007ac3" color="#ffffff" font-family="Fira Sans,Arial,sans-serif" href="http://wolterskluwer.pl" />
     </mj-attributes>
     
     <!-- Predefiniowane style CSS -->
