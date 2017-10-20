@@ -1,10 +1,10 @@
 <mjml>
   <mj-head>
     
-    <!-- Zaciągnięcie czcionki dla klientów obsługujących -->
+    <!-- Brandbook font for compliant ESP's -->
     <mj-font name="Fira Sans" href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700" />
     
-    <!-- Predefiniowane atrybuty MJML -->
+    <!-- MJML Styles -->
     <mj-attributes>
       <mj-all padding="0" line-height="1.2" />
       <mj-column width="90%" vertical-align="top" />
@@ -35,23 +35,22 @@
       <mj-image font-size="20" background-color="#007ac3" color="#ffffff" font-family="Fira Sans,Arial,sans-serif" href="http://wolerskluwer.pl" />
         </mj-attributes>
       
-      <!-- Predefiniowane style CSS -->
-      <mj-style inline="inline">
+      <!-- HTML Styles -->
+    	<mj-style inline="inline">
         ul li { color: #007ac3; list-style-type: square; }
         ul li p { color: #767676; font-size:16px; }
-       span.preheader {
-      	display:none !important;
-        font-size:1px;
-        color:#ffffff;
-        line-height:1px;
-        max-height:0px;
-        max-width:0px;
-        opacity:0;
-        overflow:hidden;
-      }
-      </mj-style>
-    
-    <mj-style>
+        span.preheader {
+      		display:none !important;
+       	 font-size:1px;
+       	 color:#ffffff;
+       	 line-height:1px;
+       	 max-height:0px;
+       	 max-width:0px;
+       	 opacity:0;
+       	 overflow:hidden;
+      	}
+   	 </mj-style>
+   	 <mj-style>
       .table {
       	display: block !important;
       	width: 80% !important;
@@ -77,13 +76,13 @@
       mso-style-priority:100 !important;
       text-decoration: none !important;
       }
-    </mj-style>
+   	 </mj-style>
     
-      </mj-head>
+    </mj-head>
     <mj-body>
       <mj-container mj-class="bg-white">
         
-        <!-- Fix dla Outlooka zmieniającego wszystkie fonty na Times New Roman -->
+        <!-- Fix for Outlook changing all fonts to Arial -->
       <mj-include path="../WK Include/outlook font issue.mjml" />
         
         <!-- Pre-header -->
@@ -105,7 +104,7 @@
         </mj-column>
       </mj-section>
         
-        <!-- Logo i wyświetlanie w przeglądarce -->
+        <!-- Logo and View in browser -->
         <mj-section padding-bottom="20">
           <mj-column width="50%">
             <mj-image align="center" href="http://www.wolterskluwer.pl" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
@@ -122,7 +121,7 @@
         </mj-section>
         <mj-wrapper background-color="#f0f0f0">
           
-          <!-- Kolorowy pasek dla maili produktowych -->
+        <!-- Header colour bar -->
           <mj-section>
             <mj-column mj-class="bg-blue" width="50%">
               <mj-button mj-class="bar bg-blue left">Bezpłatna wiedza
@@ -134,7 +133,7 @@
             </mj-column>
           </mj-section>
           
-          <!-- Obrazek -->
+          <!-- Image -->
           <mj-section>
             <mj-column>
               <mj-image src="http://placehold.it/540x250" alt="Pobierz grafikę tytułową" align="center" border="none" width="540">
@@ -142,7 +141,7 @@
             </mj-column>
           </mj-section>
           
-          <!-- Tekst pod obrazkiem -->
+          <!-- Text under image -->
           <mj-section>
             <mj-column mj-class="bg-blue">
               <mj-text mj-class="h white big">
@@ -152,7 +151,7 @@
             </mj-column>
           </mj-section>
           
-          <!-- CTA górne -->
+          <!-- CTA -->
           <mj-section>
             <mj-column>
               <mj-button mj-class="cta">
@@ -161,17 +160,17 @@
             </mj-column>
           </mj-section>
           
-          <!-- Odstęp -->
+          <!-- Spacer -->
           <mj-section>
             <mj-column>
               <mj-text height="30"></mj-text>
             </mj-column>
           </mj-section>
           
-          <!-- Stopka Eloquy -->
+          <!-- Footer Eloquy -->
           <mj-include path="../WK Include/elq footer.mjml" /> 
           
-          <!-- Link do Subscription Center-->
+          <!-- Link to Subscription Center -->
           <mj-include path="../WK Include/subscription center.mjml" />
           
         </mj-wrapper>

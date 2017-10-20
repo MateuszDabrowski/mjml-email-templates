@@ -1,10 +1,10 @@
 <mjml>
   <mj-head>
         
-    <!-- Zaciągnięcie czcionki dla klientów obsługujących -->
+    <!-- Brandbook font for compliant ESP's -->
      <mj-font name="Fira Sans" href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700" />
     
-    <!-- Predefiniowane atrybuty MJML -->
+    <!-- MJML Styles -->
     <mj-attributes>
       <mj-all padding="0" line-height="1.2" />
       <mj-column width="90%" vertical-align="top" />
@@ -35,7 +35,7 @@
       <mj-image font-size="20" background-color="#007ac3" color="#ffffff" font-family="Fira Sans,Arial,sans-serif" href="http://wolterskluwer.pl" />
     </mj-attributes>
     
-    <!-- Predefiniowane style CSS -->
+      <!-- HTML Styles -->
     <mj-style inline="inline">
       ul li { 
       	color: #007ac3; 
@@ -56,8 +56,6 @@
         overflow:hidden;
       }
     </mj-style>
-    
-    <!-- Ostylowanie responsywnej mj-table -->
     <mj-style>
       .table {
       	display: block !important;
@@ -92,10 +90,10 @@
   <mj-body>
     <mj-container mj-class="bg-white">
       
-      <!-- Fix dla Outlooka zmieniającego wszystkie fonty na Times New Roman -->
+        <!-- Fix for Outlook changing all fonts to Arial -->
       <mj-include path="../WK Include/outlook font issue.mjml" />
 
-      <!-- Pre-header z fixem na MSO 2007-2013 dodające dodatkowy white-space na górze maila -->
+      <!-- Pre-header -->
       <mj-section>
         <mj-column>
            <mj-raw>
@@ -114,7 +112,7 @@
         </mj-column>
       </mj-section>
       
-      <!-- Logo i wyświetlanie w przeglądarce -->
+        <!-- Logo and View in browser -->
       <mj-section padding-bottom="20">
         <mj-column width="50%">
           <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
@@ -131,7 +129,7 @@
       </mj-section>
       <mj-wrapper mj-class="bg-grey">
                 
-        <!-- Kolorowy pasek z tekstem -->
+        <!-- Header colour bar -->
         <mj-section>
           <mj-column mj-class="bg-blue" width="50%">
             <mj-button mj-class="bar bg-blue left"> Nazwa mailingu
@@ -143,7 +141,7 @@
           </mj-column>
         </mj-section>
         
-        <!-- Nagłowek -->
+        <!-- Header Title -->
         <mj-section>
           <mj-column width="100%">
             <mj-text mj-class="h" font-size="35" padding="10 25 10 27">
@@ -153,7 +151,7 @@
           </mj-column>
         </mj-section>
         
-        <!-- Grafika główna -->
+        <!-- Main image -->
         <mj-section>
           <mj-column>
             <mj-image src="http://placehold.it/540x250" alt="Pobierz grafikę tytułową" align="center" border="none" width="540">
@@ -161,7 +159,7 @@
           </mj-column>
         </mj-section>
         
-        <!-- Tekst pod obrazkiem -->
+        <!-- Text under image -->
         <mj-section>
           <mj-column mj-class="bg-blue">
             <mj-text mj-class="h white big">
@@ -171,7 +169,7 @@
           </mj-column>
         </mj-section>
         
-        <!-- CTA górne -->
+        <!-- CTA -->
         <mj-section>
           <mj-column>
             <mj-button mj-class="cta">
@@ -180,14 +178,14 @@
           </mj-column>
         </mj-section>
         
-        <!-- Odstęp -->
+        <!-- Spacer -->
         <mj-section>
           <mj-column>
             <mj-text height="30">&nbsp;</mj-text>
           </mj-column>
         </mj-section>
         
-        <!-- Obszar w ramce -->
+        <!-- Bordered text -->
         <mj-section>
           <mj-column mj-class="bg-white" border="4px solid #007ac3">
             <mj-text mj-class="p">
@@ -201,7 +199,7 @@
           </mj-column>
         </mj-section>
         
-         <!-- CTA dolne -->
+         <!-- CTA -->
         <mj-section>
           <mj-column>
             <mj-button mj-class="cta">
@@ -210,14 +208,14 @@
           </mj-column>
         </mj-section>
         
-        <!-- Odstęp -->
+        <!-- Spacer -->
         <mj-section>
           <mj-column>
             <mj-text height="30"></mj-text>
           </mj-column>
         </mj-section>
         
-        <!-- Sekcja z tekstem -->
+        <!-- Text section -->
         <mj-section>
           <mj-column>
             <mj-button mj-class="over">
@@ -238,14 +236,14 @@
           </mj-column>
         </mj-section>
         
-        <!-- Odstęp -->
+        <!-- Spacer -->
         <mj-section>
           <mj-column>
             <mj-text height="30"></mj-text>
           </mj-column>
         </mj-section>
         
-        <!-- Sekcja z listą -->
+        <!-- List section -->
         <mj-section>
           <mj-column>
             <mj-button mj-class="over">
@@ -280,7 +278,7 @@
           </mj-column>
         </mj-section>
         
-        <!-- CTA dolne -->
+        <!-- CTA -->
         <mj-section>
           <mj-column>
             <mj-button mj-class="cta">
@@ -289,14 +287,14 @@
           </mj-column>
         </mj-section>
         
-        <!-- Odstęp -->
+        <!-- Spacer -->
         <mj-section>
           <mj-column>
             <mj-text height="30"></mj-text>
           </mj-column>
         </mj-section>
         
-        <!-- Sekcja wyróżniona z listą -->
+        <!-- Highlighted list section -->
         <mj-section>
           <mj-column>
             <mj-button mj-class="over">
@@ -314,7 +312,7 @@
            </mj-text>
          </mj-column>
         </mj-section>
-        <!-- Treść -->
+        <!-- Highlighted list content -->
         <mj-section>
           <mj-column mj-class="bg-white">
             <mj-text mj-class="h" padding-top="20">
@@ -341,7 +339,7 @@
             </mj-text>
           </mj-column>
         </mj-section> 
-        <!-- Koniec treści -->
+        <!-- End of highlighted content -->
         <mj-section>
          <mj-column width="65%" mj-class="bg-white">
            <mj-text height="10">
@@ -353,14 +351,14 @@
          </mj-column>
         </mj-section>
         
-         <!-- Odstęp -->
+         <!-- Spacer -->
         <mj-section>
           <mj-column>
             <mj-text height="30"></mj-text>
           </mj-column>
         </mj-section>
         
-        <!-- Sekcja z listą linków -->
+        <!-- Link list section -->
         <mj-section>
           <mj-column width="70%">
             <mj-text mj-class="h left" padding-left="30" padding-top="20" padding-bottom="20">
@@ -378,7 +376,7 @@
      </mj-text>
      </mj-column>
    </mj-section>
-   <!-- Odstęp -->
+   <!-- Spacer -->
         <mj-section>
           <mj-column>
             <mj-text height="15">
@@ -393,7 +391,7 @@
      </mj-text>
      </mj-column>
    </mj-section>
-      <!-- Odstęp -->
+      <!-- Spacer -->
         <mj-section>
           <mj-column>
             <mj-text height="15">
@@ -409,14 +407,14 @@
      </mj-column>
    </mj-section>
     
-    <!-- Odstęp -->
+    <!-- Spacer -->
         <mj-section>
           <mj-column>
             <mj-text height="30"></mj-text>
           </mj-column>
         </mj-section>
         
-        <!-- Sekcja z mj-table -->
+        <!-- MJ-Table section -->
         <mj-section>
           <mj-column>
             <mj-button mj-class="over">
@@ -486,14 +484,14 @@
           </mj-column>
         </mj-section>
         
-        <!-- Odstęp -->
+        <!-- Spacer -->
         <mj-section>
           <mj-column>
             <mj-text height="30"></mj-text>
           </mj-column>
         </mj-section>
         
-        <!-- Sekcja dwukolumnowa - trzeba zawsze poprawiać wysokość elementów; może tworzyć paski wokół ikon na niektórych klientach - lepiej stosować mj-table powyżej -->
+        <!-- Two column section - for this you always need to fix hight of the elements and even then there might be differences on various ESP. It is advised to use mj-table -->
         <mj-section>
           <mj-column>
             <mj-button mj-class="over">
@@ -568,7 +566,7 @@
             </mj-text>
           </mj-column>
         </mj-section>
-    <!-- Sekcja opisowa -->
+    <!-- Description section -->
         <mj-section>
           <mj-column width="90%" mj-class="bg-white">
             <mj-text height="20">
@@ -607,7 +605,7 @@
           </mj-column>
         </mj-section>
         
-        <!-- Sekcja z niebieskim tłem -->
+        <!-- Blue background section -->
         <mj-section mj-class="bg-blue">
           <mj-column width="90%" mj-class="bg-white">
             <mj-text height="30">
@@ -630,7 +628,7 @@
           </mj-column>
         </mj-section> 
         
-        <!-- CTA dolne -->
+        <!-- CTA -->
         <mj-section mj-class="bg-blue">
           <mj-column width="100%">
             <mj-button mj-class="cta">
@@ -639,17 +637,17 @@
           </mj-column>
         </mj-section>
           
-          <!-- Odstęp -->
+          <!-- Spacer -->
           <mj-section>
             <mj-column >
               <mj-text height="30"></mj-text>
             </mj-column>
           </mj-section>
           
-          <!-- Stopka Eloquy --> 
+          <!-- Eloqua Footer --> 
 <mj-include path="../WK Include/elq footer.mjml" />
           
-          <!-- Link do Subscription Center-->
+          <!-- Link to Subscription Center -->
           <mj-include path="../WK Include/subscription center.mjml" />
           
           </mj-wrapper>
