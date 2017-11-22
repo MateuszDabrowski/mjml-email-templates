@@ -167,9 +167,6 @@
         <!-- Eloqua footer -->
 <mj-include path="../WK Include/elq footer.mjml" /> 
         
-        <!-- Link to Subscription Center -->
-        <mj-include path="../WK Include/subscription center.mjml" />
-        
       </mj-wrapper>
     </mj-container>
   </mj-body>
