@@ -12,12 +12,11 @@
       <mj-button font-family="Fira Sans,Arial,sans-serif"/>
       <mj-class name="h" color="#007ac3"  font-size="20" padding="10 25 10 25" />
       <mj-class name="p" color="#767676"  font-size="16" padding="10 25 10 25" />
-      <mj-class name="u" color="#767676"  font-size="16" padding-right="25" padding-left="5"/>
       <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20" align="left" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
       <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="18" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
       
       <mj-class name="big" font-size="32"/>
-      <mj-class name="small" font-size="16"/>
+      <mj-class name="small" font-size="14"/>
       <mj-class name="center" align="center"/>
       <mj-class name="left" align="left"/>
       <mj-class name="right" align="right"/>
@@ -37,14 +36,6 @@
     
       <!-- HTML Styles -->
     <mj-style inline="inline">
-      ul li { 
-      	color: #007ac3; 
-      	list-style-type: square;
-      }
-      ul li p { 
-      	color: #767676; 
-      	font-size:16px;
-      }
       span.preheader {
       	display:none !important;
         font-size:1px;
@@ -286,34 +277,25 @@
         <!-- Pomoc -->
         <mj-section mj-class="bg-white">
           <mj-column>
-              <mj-text mj-class="h navy bold" padding-bottom="0" padding-top="20">
-             Dział Pomocy Technicznej
-            </mj-text>
-            <mj-text mj-class="p bold" padding-bottom="0" padding-top="20">
+            <mj-text mj-class="p" padding-bottom="0" padding-top="20">
              Jeżeli masz problem z zalogowaniem się lub potrzebujesz pomocy:
             </mj-text>
-            <mj-text mj-class="p" padding-bottom="0" padding-top="0" padding-left="5">
-              <ul>
-                <li>
-                  <p>zadzwoń: <a href="tel:+48801044545" style="color:#007ac3;" class="blue-link" target="_blank">801 04 45 45</a>
-                  </p>
-                </li>
-                <li>
-                  <p>napisz: <a href="mailto:pomoc.techniczna@wolterskluwer.pl" style="color:#007ac3;" class="blue-link" target="_blank">pomoc.techniczna@wolterskluwer.pl</a>
-                  </p>
-                </li>                
-              </ul>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="bg-white">
+          <mj-column width="40%">
+            <mj-text mj-class="p small">
+              Zadzwoń:<br>
+              <a href="tel:+48801044545" style="color:#007ac3;" class="blue-link" target="_blank">801 04 45 45</a>
+            </mj-text>
+           </mj-column>
+           <mj-column width="50%">
+            <mj-text mj-class="p small">
+              Napisz:<br>
+              <a href="mailto:pomoc.techniczna@wolterskluwer.pl" style="color:#007ac3;" class="blue-link" target="_blank">pomoc.techniczna@wolterskluwer.pl</a>
             </mj-text>
           </mj-column>
-        </mj-section>
-      
-      <!-- Odstęp -->
-          <mj-section>
-            <mj-column>
-              <mj-text height="30"></mj-text>
-            </mj-column>
-          </mj-section>
-          
+        </mj-section>          
           
           <!-- Eloqua Footer --> 
 <mj-include path="../WK Include/elq footer.mjml" />
