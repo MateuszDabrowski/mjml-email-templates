@@ -245,20 +245,20 @@ z&nbsp;dostępem dla wszystkich pracowników!
 				<mj-section>
           <mj-column mj-class="bg-white" width="32%">
             <mj-text mj-class="p grey center" padding-top="20" height="130">
-              <span style="font-size: 42px; color: #004c8b;"><strong>2</strong></span><span>
-              <br>moduły tematyczne<br>księgowość i&nbsp;kadry</br></span>
-            </mj-text>
-          </mj-column>
-          <mj-column mj-class="bg-white" width="32%">
-            <mj-text mj-class="p grey center" padding-top="20"height="130">
-              <span style="font-size: 42px; color: #004c8b;"><strong>70 tys.</strong></span><span>
-              <br>odpowiedzi udzielnych na&nbsp;pytania użytkowników</span>
+              <span style="font-size: 42px; color: #004c8b; font-weight: bold">2</span>
+              <span><br>moduły tematyczne księgowość i&nbsp;kadry</span>
             </mj-text>
           </mj-column>
           <mj-column mj-class="bg-white" width="32%">
             <mj-text mj-class="p grey center" padding-top="20" height="130">
-              <span style="font-size: 42px; color: #004c8b;"><strong>100%</strong></span><span>
-              <br>wiarygodności i aktualności</span>
+              <span style="font-size: 42px; color: #004c8b; font-weight: bold">70 tys.</span>
+              <span><br>odpowiedzi udzielnych na&nbsp;pytania użytkowników</span>
+            </mj-text>
+          </mj-column>
+          <mj-column mj-class="bg-white" width="32%">
+            <mj-text mj-class="p grey center" padding-top="20" height="130">
+              <span style="font-size: 42px; color: #004c8b; font-weight: bold">100%</span>
+              <span><br>wiarygodności i&nbsp;aktualności</span>
             </mj-text>
           </mj-column>
         </mj-section>
@@ -385,8 +385,8 @@ z&nbsp;dostępem dla wszystkich pracowników!
             </mj-image>
           </mj-column>
           <mj-column width="70%" mj-class="bg-darkblue">
-            <mj-text mj-class="h white big" padding-bottom="0">
-              <p><strong>86% użytkowników</strong></p>
+            <mj-text mj-class="h white big bold" padding-bottom="0">
+              <p>86% użytkowników</p>
             </mj-text>
             <mj-text mj-class="h white" padding-top="0" padding-bottom="20">wysoko ocenia działanie infolinii merytorycznej
             </mj-text>
@@ -403,11 +403,13 @@ z&nbsp;dostępem dla wszystkich pracowników!
           
           <!-- Spacer -->
           <mj-section>
-            <mj-column >
-              <mj-text height="30"></mj-text>
+            <mj-column>
+              <mj-text height="30">
+              </mj-text>
             </mj-column>
           </mj-section>
             
+        <!-- PS Section -->    
 				<mj-section mj-class="bg-grey">
           <mj-column width="20%">
             <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B937a9b33-795b-4c43-8559-017c09bff07b%7D_SPRING-889_PS.jpg" alt="Post Scriptum" padding-top="15" width="77" height="77" border="none">
@@ -420,7 +422,7 @@ z&nbsp;dostępem dla wszystkich pracowników!
           </mj-column>
         </mj-section>
  
-          
+          <!-- Spacer -->
         <mj-section>
           <mj-column>
             <mj-text height="20"></mj-text>
