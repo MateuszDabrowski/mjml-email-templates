@@ -14,10 +14,13 @@ WK\ MSG
 WK\ Profinfo
 WK\ Progman
 WK\ Wznowienia
+WK\ Szkolenia
 
 #Ingored Templates
 Cold\ Mail\ Template.mjml
 Newsletter\ Confirmation.mjml
 vCard.mjml
+Test.mjml
 
-#Ignored Includes
+#Ignored Files
+emoji.html

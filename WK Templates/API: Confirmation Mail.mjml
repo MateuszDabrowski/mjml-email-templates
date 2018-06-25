@@ -31,8 +31,8 @@
       <mj-class name="bg-white" background-color="#ffffff" />
       <mj-class name="bg-grey" background-color="#f0f0f0" />
       
-	   <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15"  href="http://s1364398973.t.eloqua.com/e/f2.aspx?elqFormName=INSERT-HTML-FORM-NAME&elqSiteID=1364398973&emailAddress=<span%20class=eloquaemail>EmailAddress</span>&potwierdzenie=Potwierdzam" />
-      <mj-image font-size="20" background-color="#007ac3" color="#ffffff" font-family="Fira Sans,Arial,sans-serif" href="http://s1364398973.t.eloqua.com/e/f2.aspx?elqFormName=INSERT-HTML-FORM-NAME&elqSiteID=1364398973&emailAddress=<span%20class=eloquaemail>EmailAddress</span>&potwierdzenie=Potwierdzam" />
+	   <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15"  href="http://s1364398973.t.eloqua.com/e/f2.aspx?elqFormName=HTML_FORM_NAME&elqSiteID=1364398973&emailAddress=<span%20class=eloquaemail>EmailAddress</span>&potwierdzenie=Potwierdzam" />
+      <mj-image font-size="20" background-color="#007ac3" color="#ffffff" font-family="Fira Sans,Arial,sans-serif" href="http://s1364398973.t.eloqua.com/e/f2.aspx?elqFormName=HTML_FORM_NAME&elqSiteID=1364398973&emailAddress=<span%20class=eloquaemail>EmailAddress</span>&potwierdzenie=Potwierdzam" />
     </mj-attributes>
     
       <!-- HTML Styles -->
@@ -126,14 +126,14 @@
           <mj-button mj-class="bar bg-blue left">Weryfikacja adresu e-mail</mj-button>
           </mj-column>
           <mj-column mj-class="bg-blue" width="50%">
-          <mj-button mj-class="bar bg-green">Nazwa produktu</mj-button>
+          <mj-button mj-class="bar bg-green">PRODUCT_NAME</mj-button>
         </mj-column>
       </mj-section>
 
         <!-- Image -->
         <mj-section>
           <mj-column>
-            <mj-image src="http://placehold.it/540x250" alt="Pobierz grafikę tytułową" align="center" border="none" width="540">
+            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B323c1075-99e7-46df-a8e5-98d6e7e958cc%7D_Email_Header_Image_14.jpg" alt="Pobierz grafikę tytułową" align="center" border="none" width="540">
             </mj-image>
           </mj-column>
         </mj-section>
@@ -142,8 +142,8 @@
         <mj-section>
           <mj-column mj-class="bg-blue">
             <mj-text mj-class="h white big">
-              <p>Dziękujemy za zainteresowanie e&#8209;bookiem <em>"Title"</em>.</p>
-              <p style="font-size:0.7em;">Aby otrzymać link do e&#8209;booka, potwierdź swój adres e&#8209;mail</p>
+              <p>Dziękujemy za zainteresowanie CONVERTER_0 <em>"ASSET_NAME"</em>.</p>
+              <p style="font-size:0.7em;">Aby otrzymać CONVERTER_1, potwierdź swój adres e&#8209;mail</p>
             </mj-text>
           </mj-column>
         </mj-section>
