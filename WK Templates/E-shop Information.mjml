@@ -1,123 +1,83 @@
 <mjml>
   <mj-head>
-        
+
     <!-- Brandbook font for compliant ESP's -->
-     <mj-font name="Fira Sans" href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700" />
-    
+    <mj-font name="Fira Sans" href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700" />
+
     <!-- MJML Styles -->
     <mj-attributes>
       <mj-all padding="0" line-height="1.2" />
       <mj-column width="90%" vertical-align="top" />
-      <mj-text font-family="Fira Sans,Arial,sans-serif"/>
-      <mj-button font-family="Fira Sans,Arial,sans-serif"/>
-      <mj-class name="h" color="#007ac3"  font-size="18" padding="10 25 10 25" />
-      <mj-class name="p" color="#767676"  font-size="16" padding="10 25 10 25" />
-      <mj-class name="u" color="#767676"  font-size="16" padding-right="25" padding-left="5"/>
+      <mj-text font-family="Fira Sans,Arial,sans-serif" />
+      <mj-button font-family="Fira Sans,Arial,sans-serif" />
+      <mj-class name="h" color="#007ac3" font-size="18" padding="10 25 10 25" />
+      <mj-class name="p" color="#767676" font-size="16" padding="10 25 10 25" />
+      <mj-class name="u" color="#767676" font-size="16" padding-right="25" padding-left="5" />
       <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20" align="left" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
       <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="2" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="2" />
-      
-      <mj-class name="big" font-size="26"/>
-      <mj-class name="bigger" font-size="38"/>
-      <mj-class name="small" font-size="16"/>
-      <mj-class name="center" align="center"/>
-      <mj-class name="left" align="left"/>
-      <mj-class name="right" align="right"/>
-      <mj-class name="bold" font-weight="bold"/>
-      <mj-class name="white" color="#ffffff"/>
-      <mj-class name="blue" color="#007ac3"/>
-      <mj-class name="dark-blue" color="#0d498d"/>
-      <mj-class name="grey" color="#767676"/>
+
+      <mj-class name="big" font-size="26" />
+      <mj-class name="bigger" font-size="38" />
+      <mj-class name="small" font-size="16" />
+      <mj-class name="center" align="center" />
+      <mj-class name="left" align="left" />
+      <mj-class name="right" align="right" />
+      <mj-class name="bold" font-weight="bold" />
+      <mj-class name="white" color="#ffffff" />
+      <mj-class name="blue" color="#007ac3" />
+      <mj-class name="dark-blue" color="#0d498d" />
+      <mj-class name="grey" color="#767676" />
       <mj-class name="bg-blue" background-color="#007ac3" />
       <mj-class name="bg-dark-blue" background-color="#0d498d" />
       <mj-class name="bg-red" background-color="#e5202e" />
       <mj-class name="bg-green" background-color="#85bc20" />
       <mj-class name="bg-white" background-color="#ffffff" />
       <mj-class name="bg-grey" background-color="#f0f0f0" />
-     
+
       <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="22" align="right" vertical-align="middle" font-weight="bold" border="none" border-radius="0" inner-padding="15 25 15 25" />
-      <mj-class name="cta2" background-color="#f1f1f1" color="#565656" font-size="30" font-weight="bold" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15 45 15 45" width="80%" href="http://profinfo.pl?kampania=WKC0118019_IPF007&utm_source=mailing-wewnetrzny&utm_medium=email&utm_campaign=rodo-w-pracy-zmiana-terminu&utm_term=WKC0118019_IPF007&utm_content=rodo-zmiana-terminu" />
-      <mj-image font-size="20" background-color="#007ac3" color="#ffffff" font-family="Fira Sans,Arial,sans-serif" href="https://www.profinfo.pl?kampania=WKC0118019_IPF007&utm_source=mailing-wewnetrzny&utm_medium=email&utm_campaign=rodo-w-pracy-zmiana-terminu&utm_term=WKC0118019_IPF007&utm_content=rodo-zmiana-terminu" />
+      <mj-class name="cta2" background-color="#f1f1f1" color="#565656" font-size="30" font-weight="bold" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15 45 15 45" width="80%" href="http://profinfo.pl?kampania=WKC0118019_IPF007&utm_source=mailing-wewnetrzny&utm_medium=email&utm_campaign=rodo-w-pracy-zmiana-terminu&utm_term=WKC0118019_IPF007&utm_content=rodo-zmiana-terminu"
+      />
+      <mj-image href="https://www.profinfo.pl?kampania=WKC0118019_IPF007&utm_source=mailing-wewnetrzny&utm_medium=email&utm_campaign=rodo-w-pracy-zmiana-terminu&utm_term=WKC0118019_IPF007&utm_content=rodo-zmiana-terminu" />
     </mj-attributes>
-    
-      <!-- HTML Styles -->
+
+    <!-- HTML Styles -->
     <mj-style inline="inline">
-      ul li { 
-      	color: #007ac3; 
-      	list-style-type: square;
-      }
-      ul li p { 
-      	color: #767676; 
-      	font-size:16px;
-      }
-      span.preheader {
-      	display:none !important;
-        font-size:1px;
-        color:#ffffff;
-        line-height:1px;
-        max-height:0px;
-        max-width:0px;
-        opacity:0;
-        overflow:hidden;
-      }
+      ul li { color: #007ac3; list-style-type: square; } ul li p { color: #767676; font-size:16px; } span.preheader { display:none !important; font-size:1px; color:#ffffff; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; }
     </mj-style>
     <mj-style>
-      .table {
-      	display: block !important;
-      	width: 80% !important;
-      	padding: 10px !important;
-      	background-color:#ffffff !important;
-      	color:#767676 !important; 
-      	font-size: 16px !important;
-      }
-      .icon {
-      	width: 20% !important;
-      	padding: 10px !important;
-      	text-align: center !important;
-      	background-color:#ffffff !important; 
-      	vertical-align: middle !important;
-      }
-      .white-link a:link, span.MsoHyperlink {
-    		mso-style-priority:100 !important;
-   		  color:#ffffff !important;
-			}
-      .blue-link a:link, span.MsoHyperlink {
-    		mso-style-priority:100 !important;
-   		  color:#007ac3 !important;
-			} 
-      a {
-      mso-style-priority:100 !important;
-      text-decoration: none !important;
-      }
+      .table { display: block !important; width: 80% !important; padding: 10px !important; background-color:#ffffff !important; color:#767676 !important; font-size: 16px !important; } .icon { width: 20% !important; padding: 10px !important; text-align: center
+      !important; background-color:#ffffff !important; vertical-align: middle !important; } .white-link a:link, span.MsoHyperlink { mso-style-priority:100 !important; color:#ffffff !important; } .blue-link a:link, span.MsoHyperlink { mso-style-priority:100
+      !important; color:#007ac3 !important; } a { mso-style-priority:100 !important; text-decoration: none !important; }
     </mj-style>
-  
+
   </mj-head>
   <mj-body mj-class="bg-grey">
     <mj-container mj-class="bg-grey">
-      
-        <!-- Fix for Outlook changing all fonts to Arial -->
+
+      <!-- Fix for Outlook changing all fonts to Arial -->
       <mj-include path="../WK Include/outlook font issue.mjml" />
 
       <!-- Pre-header -->
       <mj-section>
         <mj-column>
-           <mj-raw>
-             <!--[if !mso]><!-->
-              <p>
-             <!--<![endif]-->
-            
+          <mj-raw>
+            <!--[if !mso]><!-->
+            <p>
+              <!--<![endif]-->
+
               <span class="preheader">RODO. Ochrona danych osobowych w stosunkach pracy
                 <mj-include path="../WK Include/post-header.mjml" />
               </span>
-                
+
               <!--[if !mso]><!-->
-               </p>
-              <!--<![endif]-->
-            </mj-raw>
+            </p>
+            <!--<![endif]-->
+          </mj-raw>
         </mj-column>
       </mj-section>
 
       <!-- View in browser -->
-      
+
       <mj-section padding-bottom="20">
         <mj-column width="100%">
           <mj-text mj-class="center grey" font-size="13" padding-top="8">
@@ -128,12 +88,13 @@
           </mj-text>
         </mj-column>
       </mj-section>
-      
+
       <!-- Header links -->
 
       <mj-section padding-bottom="20">
         <mj-column width="50%">
-          <mj-image mj-class="center" href="http://www.profinfo.pl?kampania=WKC0118019_IPF007&utm_source=mailing-wewnetrzny&utm_medium=email&utm_campaign=rodo-w-pracy-zmiana-terminu&utm_term=WKC0118019_IPF007&utm_content=rodo-zmiana-terminu" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B68d8377b-44a0-47a9-8ec6-82dafa107304%7D_SPRING-1101_Logo.jpg" alt="Wolters Kluwer" width="200" border="none">
+          <mj-image mj-class="center" href="http://www.profinfo.pl?kampania=WKC0118019_IPF007&utm_source=mailing-wewnetrzny&utm_medium=email&utm_campaign=rodo-w-pracy-zmiana-terminu&utm_term=WKC0118019_IPF007&utm_content=rodo-zmiana-terminu" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B68d8377b-44a0-47a9-8ec6-82dafa107304%7D_SPRING-1101_Logo.jpg"
+            alt="Wolters Kluwer" width="200" border="none">
           </mj-image>
         </mj-column>
         <mj-column width="50%">
@@ -146,7 +107,7 @@
       </mj-section>
 
       <!-- Header bar -->
-      
+
       <mj-wrapper mj-class="bg-grey">
         <mj-section>
           <mj-column mj-class="bg-blue" width="50%">
@@ -158,51 +119,52 @@
             </mj-button>
           </mj-column>
         </mj-section>
-        
+
         <!-- Header title -->
-        
-  			<mj-section mj-class="bg-grey">
+
+        <mj-section mj-class="bg-grey">
           <mj-column mj-class="bg-grey" width="100%" vertical-align="middle">
             <mj-text mj-class="h grey bigger center" padding-top="20" padding-bottom="20">
               Informacja o zamówieniu
             </mj-text>
           </mj-column>
         </mj-section>
-            
-         <!-- Book information -->
-        
+
+        <!-- Book information -->
+
         <mj-section mj-class="bg-white">
           <mj-column mj-class="bg-white">
             <mj-text mj-class="h dark-blue big bold" padding-left="0" padding-bottom="0" padding-top="25"> Szanowni Państwo,
             </mj-text>
           </mj-column>
         </mj-section>
-        
+
         <mj-section mj-class="bg-white">
-					<mj-column mj-class="bg-white" width="55%">
+          <mj-column mj-class="bg-white" width="55%">
             <mj-text mj-class="p grey" padding-left="30" padding-top="0">
               <p>W nawiązaniu do zakupu książki „<em>Ochrona danych osobowych w stosunkach pracy</em>” Edyty Jagiełło, Darii Jarmużek i Pauliny Zawadzkiej-Filipczyk, informujemy, że <strong>termin wydania publikacji uległ przesunięciu na lipiec</strong>.</p>
               <p>Jak Państwo wiecie pod koniec maja weszły w życie przepisy nowej ustawy o ochronie danych osobowych.
-<strong>Zakres i doniosłość wprowadzonych zmian wymagały pogłębionej analizy autorskiej</strong>, co spowodowało wydłużenie prac związanych z wydaniem tej publikacji w stosunku do poprzednio zakładanego terminu.</p>
+                <strong>Zakres i doniosłość wprowadzonych zmian wymagały pogłębionej analizy autorskiej</strong>, co spowodowało wydłużenie prac związanych z wydaniem tej publikacji w stosunku do poprzednio zakładanego terminu.</p>
             </mj-text>
           </mj-column>
           <mj-column mj-class="bg-white" width="45%">
-            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B902284d9-5441-47bd-ae67-ec7486783562%7D_Profinfo-book-cover.png" alt="Zobacz okładkę" align="center" border="none" width="240" padding-top="10" padding-bottom="30" href="https://www.profinfo.pl/sklep/rodo-ochrona-danych-osobowych-w-stosunkach-pracy-przedsprzedaz,72733.html?kampania=WKC0118019_IPF007&utm_source=mailing-wewnetrzny&utm_medium=email&utm_campaign=rodo-w-pracy-zmiana-terminu&utm_term=WKC0118019_IPF007&utm_content=rodo-zmiana-terminu">
+            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B902284d9-5441-47bd-ae67-ec7486783562%7D_Profinfo-book-cover.png" alt="Zobacz okładkę" align="center" border="none" width="240" padding-top="10" padding-bottom="30"
+              href="https://www.profinfo.pl/sklep/rodo-ochrona-danych-osobowych-w-stosunkach-pracy-przedsprzedaz,72733.html?kampania=WKC0118019_IPF007&utm_source=mailing-wewnetrzny&utm_medium=email&utm_campaign=rodo-w-pracy-zmiana-terminu&utm_term=WKC0118019_IPF007&utm_content=rodo-zmiana-terminu">
             </mj-image>
           </mj-column>
         </mj-section>
-        
+
         <mj-section mj-class="bg-dark-blue">
           <mj-column mj-class="bg-white">
             <mj-text mj-class="h grey center" padding-top="0" padding-bottom="0">
               <p>W ramach przeprosin chcielibyśmy Państwu zaoferować możliwość <strong>jednorazowego zakupu dowolnych publikacji książkowych Wolters Kluwer Polska z&nbsp;rabatem&nbsp;X</strong>.
               </p>
               <p>
-              Maksymalna wartość zamówienia nie może przekroczyć kwoty&nbsp;X PLN.</p>
+                Maksymalna wartość zamówienia nie może przekroczyć kwoty&nbsp;X PLN.</p>
             </mj-text>
           </mj-column>
         </mj-section>
-                
+
 
         <mj-section mj-class="bg-white">
           <mj-column mj-class="bg-white">
@@ -211,54 +173,52 @@
             </mj-text>
           </mj-column>
         </mj-section>
-        
+
         <mj-section mj-class="bg-white">
           <mj-column mj-class="bg-white">
             <mj-button mj-class="cta2 center" padding-top="0" padding-bottom="20">WKPL1234
             </mj-button>
           </mj-column>
         </mj-section>
- 
-        
+
+
         <mj-section mj-class="bg-white">
           <mj-column mj-class="bg-white" width="95%">
             <mj-text mj-class="p right" padding-top="0" font-size="18">
-              <p>Z wyrazami szacunku,<br/>
-Imię Nazwisko<br/>
-Stanowisko
+              <p>Z wyrazami szacunku,<br/> Imię Nazwisko<br/> Stanowisko
               </p>
             </mj-text>
           </mj-column>
         </mj-section>
-                    
-          
+
+
         <mj-section mj-class="bg-white">
           <mj-column>
             <mj-text height="30"></mj-text>
           </mj-column>
         </mj-section>
-          
-          
+
+
         <mj-section mj-class="bg-white">
           <mj-column width="600">
             <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B20175a89-75e5-49d9-b24e-602b008842c1%7D_SPRING-1182_bar_2.jpg" align="center" border="none" width="600">
             </mj-image>
           </mj-column>
         </mj-section>
-  
-  
-  			<mj-section>
+
+
+        <mj-section>
           <mj-column>
             <mj-text height="30">&nbsp;</mj-text>
           </mj-column>
         </mj-section>
-        
-        
-        
-          <!-- Eloqua Footer --> 
-<mj-include path="../WK Include/elq footer.mjml" />
-          
-          </mj-wrapper>
-        </mj-container>
-      </mj-body>
-    </mjml>
+
+
+
+        <!-- Eloqua Footer -->
+        <mj-include path="../WK Include/elq footer.mjml" />
+
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>

@@ -1,116 +1,77 @@
 <mjml>
   <mj-head>
-    
+
     <!-- Brandbook font for compliant ESP's -->
-     <mj-font name="Fira Sans" href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700" />
-    
+    <mj-font name="Fira Sans" href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700" />
+
     <!-- MJML Styles -->
     <mj-attributes>
       <mj-all padding="0" line-height="1.2" />
-      <mj-column full-width="full-width" vertical-align="top" />
-      <mj-text font-family="Fira Sans,Arial,sans-serif"/>
-      <mj-button font-family="Fira Sans,Arial,sans-serif"/>
-      <mj-class name="h" color="#007ac3"  font-size="20" padding="10 25 10 25" />
-      <mj-class name="p" color="#767676"  font-size="16" padding="10 25 10 25" />
-      <mj-class name="u" color="#767676"  font-size="16" padding-right="25" padding-left="5"/>
+      <mj-column width="100%" vertical-align="top" />
+      <mj-text font-family="Fira Sans,Arial,sans-serif" />
+      <mj-button font-family="Fira Sans,Arial,sans-serif" />
+      <mj-class name="h" color="#007ac3" font-size="20" padding="10 25 10 25" />
+      <mj-class name="p" color="#767676" font-size="16" padding="10 25 10 25" />
+      <mj-class name="u" color="#767676" font-size="16" padding-right="25" padding-left="5" />
       <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20" align="left" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
       <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="18" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
-      
-      <mj-class name="big" font-size="26"/>
-      <mj-class name="small" font-size="16"/>
-      <mj-class name="center" align="center"/>
-      <mj-class name="left" align="left"/>
-      <mj-class name="right" align="right"/>
-      <mj-class name="bold" font-weight="bold"/>
-      <mj-class name="white" color="#ffffff"/>
-      <mj-class name="blue" color="#007ac3"/>
-      <mj-class name="grey" color="#767676"/>
+
+      <mj-class name="big" font-size="26" />
+      <mj-class name="small" font-size="16" />
+      <mj-class name="center" align="center" />
+      <mj-class name="left" align="left" />
+      <mj-class name="right" align="right" />
+      <mj-class name="bold" font-weight="bold" />
+      <mj-class name="white" color="#ffffff" />
+      <mj-class name="blue" color="#007ac3" />
+      <mj-class name="grey" color="#767676" />
       <mj-class name="bg-blue" background-color="#007ac3" />
       <mj-class name="bg-red" background-color="#e5202e" />
       <mj-class name="bg-green" background-color="#85bc20" />
       <mj-class name="bg-white" background-color="#ffffff" />
       <mj-class name="bg-grey" background-color="#f0f0f0" />
-     
-      <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15"  href="http://wolterskluwer.pl" />
-      <mj-image font-size="20" background-color="#007ac3" color="#ffffff" font-family="Fira Sans,Arial,sans-serif" href="http://wolterskluwer.pl" />
+
+      <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15" href="http://wolterskluwer.pl" />
+      <mj-image href="http://wolterskluwer.pl" />
     </mj-attributes>
-    
-      <!-- HTML Styles -->
+
+    <!-- HTML Styles -->
     <mj-style inline="inline">
-      ul li { 
-      	color: #007ac3; 
-      	list-style-type: square;
-      }
-      ul li p { 
-      	color: #767676; 
-      	font-size:16px;
-      }
-      span.preheader {
-      	display:none !important;
-        font-size:1px;
-        color:#ffffff;
-        line-height:1px;
-        max-height:0px;
-        max-width:0px;
-        opacity:0;
-        overflow:hidden;
-      }
+      ul li { color: #007ac3; list-style-type: square; } ul li p { color: #767676; font-size:16px; } span.preheader { display:none !important; font-size:1px; color:#ffffff; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; }
     </mj-style>
     <mj-style>
-      .table {
-      	display: block !important;
-      	width: 80% !important;
-      	padding: 20px !important;
-      	color:#f0f0f0 !important; 
-      	font-size: 16px !important;
-      }
-      .icon {
-      	width: 20% !important;
-      	padding: 10px !important;
-      	text-align: center !important;
-      	vertical-align: middle !important;
-      }
-      .white-link a:link, span.MsoHyperlink {
-    		mso-style-priority:100 !important;
-   		  color:#ffffff !important;
-			}
-      .blue-link a:link, span.MsoHyperlink {
-    		mso-style-priority:100 !important;
-   		  color:#007ac3 !important;
-			} 
-      a {
-      mso-style-priority:100 !important;
-      text-decoration: none !important;
-      }
+      .table { display: block !important; width: 80% !important; padding: 20px !important; color:#f0f0f0 !important; font-size: 16px !important; } .icon { width: 20% !important; padding: 10px !important; text-align: center !important; vertical-align: middle
+      !important; } .white-link a:link, span.MsoHyperlink { mso-style-priority:100 !important; color:#ffffff !important; } .blue-link a:link, span.MsoHyperlink { mso-style-priority:100 !important; color:#007ac3 !important; } a { mso-style-priority:100
+      !important; text-decoration: none !important; }
     </mj-style>
-  
+
   </mj-head>
   <mj-body>
     <mj-container mj-class="bg-white">
 
-        <!-- Fix for Outlook changing all fonts to Arial -->
+      <!-- Fix for Outlook changing all fonts to Arial -->
       <mj-include path="../WK Include/outlook font issue.mjml" />
-      
+
       <!-- Pre-header -->
       <mj-section>
         <mj-column>
-           <mj-raw>
-             <!--[if !mso]><!-->
-              <p>
-             <!--<![endif]-->
-            
+          <mj-raw>
+            <!--[if !mso]><!-->
+            <p>
+              <!--<![endif]-->
+
               <span class="preheader">Pre-header
                 <mj-include path="../WK Include/post-header.mjml" />
               </span>
-                
+
               <!--[if !mso]><!-->
-               </p>
-              <!--<![endif]-->
-            </mj-raw>
+            </p>
+            <!--<![endif]-->
+          </mj-raw>
         </mj-column>
       </mj-section>
-      
-        <!-- Logo and View in browser -->
+
+      <!-- Logo and View in browser -->
       <mj-section padding-bottom="20">
         <mj-column width="50%">
           <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
@@ -125,21 +86,21 @@
           </mj-text>
         </mj-column>
       </mj-section>
-        
-        <!-- Header colour bar -->
-        <mj-section>
-          <mj-column width="50%" mj-class="bg-blue">
-            <mj-button mj-class="bar bg-blue left">Nazwa mailingu
-            </mj-button>
-          </mj-column>
-          <mj-column width="50%" mj-class="bg-blue">
-            <mj-button mj-class="bar bg-green">Nazwa produktu
-            </mj-button>
-          </mj-column>
-        </mj-section>
-        
-    <!-- Image + Text Header -->
-     <mj-section vertical-align="middle"  full-width="full-width" padding-bottom="10" padding-top="20">
+
+      <!-- Header colour bar -->
+      <mj-section>
+        <mj-column width="50%" mj-class="bg-blue">
+          <mj-button mj-class="bar bg-blue left">Nazwa mailingu
+          </mj-button>
+        </mj-column>
+        <mj-column width="50%" mj-class="bg-blue">
+          <mj-button mj-class="bar bg-green">Nazwa produktu
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Image + Text Header -->
+      <mj-section vertical-align="middle" full-width="full-width" padding-bottom="10" padding-top="20">
         <mj-column width="50%" vertical-align="middle">
           <mj-image src="http://placehold.it/300x300">
           </mj-image>
@@ -147,142 +108,141 @@
         <mj-column width="50%" vertical-align="middle">
           <mj-text mj-class="h big" padding="25">
             Znajdź odpowiedzi na swoje pytania
-            </mj-text>
+          </mj-text>
           <mj-text mj-class="p">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-            aliqua. Ut enim ad minim veniam.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
           </mj-text>
           <mj-button mj-class="cta center" padding="10">
             Pobierz &rarr;
           </mj-button>
         </mj-column>
       </mj-section>
-      
+
       <!-- Title of link list -->
-        <mj-section>
-          <mj-column>
-            <mj-text mj-class="h left" padding-left="30" padding-top="20" padding-bottom="20">
-              Sprawdź, jakie trudności w rozliczaniu VAT zgłaszają użytkownicy programu <em>Vedemecum Głównego Księgowego</em>:
-            </mj-text>
-          </mj-column>
-        </mj-section>
-   
-   <!-- Link 1 -->
-   <mj-section>
-   <mj-column width="90%" mj-class="bg-grey" border-left="5px solid #007ac3">
-     <mj-text mj-class="p">
-       <span style="color:#007ac3; font-size:20px;">&#9656;</span> <a href="#" style="text-decoration:none; color:#767676">Jak należy opodatkować na gruncie VAT sprzedaż okien, drzwi i bram garażowych wraz z usługą w charakterze podwykonawcy?</a>
-     </mj-text>
-     </mj-column>
-   </mj-section>
-   
-   <!-- Spacer -->
-        <mj-section>
-          <mj-column>
-            <mj-text height="15"></mj-text>
-          </mj-column>
-        </mj-section>
-   
-   <!-- Link 2 -->
       <mj-section>
-   <mj-column width="90%" mj-class="bg-grey" border-left="5px solid #007ac3">
-     <mj-text mj-class="p">
-       <span style="color:#007ac3; font-size:20px;">&#9656;</span> <a href="#" style="text-decoration:none; color:#767676">Czy świadczenie usług kierownika budowy objęte jest od 2017 r. mechanizmem odwrotnego obciążenia?</a>
-     </mj-text>
-     </mj-column>
-   </mj-section>
-      
-      <!-- Spacer -->
-        <mj-section>
-          <mj-column>
-            <mj-text height="15"></mj-text>
-          </mj-column>
-        </mj-section>
-      
-     <!-- Link 3 -->
-      <mj-section>
-   <mj-column width="90%" mj-class="bg-grey" border-left="5px solid #007ac3">
-     <mj-text mj-class="p">
-       <span style="color:#007ac3; font-size:20px;">&#9656;</span> <a href="#" style="text-decoration:none; color:#767676">Czy montaż dźwigów osobowych i towarowych to roboty budowlane, które podlegają od 1 stycznia 2017 r. mechanizmowi odwrotnego obciążenia?</a>
-     </mj-text>
-     </mj-column>
-   </mj-section>
-         
-          <!-- Spacer -->
-      <mj-section>
-      <mj-column>
-        <mj-text height="30"></mj-text>
+        <mj-column>
+          <mj-text mj-class="h left" padding-left="30" padding-top="20" padding-bottom="20">
+            Sprawdź, jakie trudności w rozliczaniu VAT zgłaszają użytkownicy programu <em>Vedemecum Głównego Księgowego</em>:
+          </mj-text>
         </mj-column>
       </mj-section>
-      
+
+      <!-- Link 1 -->
+      <mj-section>
+        <mj-column width="90%" mj-class="bg-grey" border-left="5px solid #007ac3">
+          <mj-text mj-class="p">
+            <span style="color:#007ac3; font-size:20px;">&#9656;</span> <a href="#" style="text-decoration:none; color:#767676">Jak należy opodatkować na gruncie VAT sprzedaż okien, drzwi i bram garażowych wraz z usługą w charakterze podwykonawcy?</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Spacer -->
+      <mj-section>
+        <mj-column>
+          <mj-text height="15"></mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Link 2 -->
+      <mj-section>
+        <mj-column width="90%" mj-class="bg-grey" border-left="5px solid #007ac3">
+          <mj-text mj-class="p">
+            <span style="color:#007ac3; font-size:20px;">&#9656;</span> <a href="#" style="text-decoration:none; color:#767676">Czy świadczenie usług kierownika budowy objęte jest od 2017 r. mechanizmem odwrotnego obciążenia?</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Spacer -->
+      <mj-section>
+        <mj-column>
+          <mj-text height="15"></mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Link 3 -->
+      <mj-section>
+        <mj-column width="90%" mj-class="bg-grey" border-left="5px solid #007ac3">
+          <mj-text mj-class="p">
+            <span style="color:#007ac3; font-size:20px;">&#9656;</span> <a href="#" style="text-decoration:none; color:#767676">Czy montaż dźwigów osobowych i towarowych to roboty budowlane, które podlegają od 1 stycznia 2017 r. mechanizmowi odwrotnego obciążenia?</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Spacer -->
+      <mj-section>
+        <mj-column>
+          <mj-text height="30"></mj-text>
+        </mj-column>
+      </mj-section>
+
       <!-- Triangle -->
-          <mj-section>
+      <mj-section>
         <mj-column>
           <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B83c0cbe7-9c23-435b-8668-fb869d87a875%7D_Triangle_White2Gray.png"></mj-image>
- </mj-column>
-          </mj-section>
-          
-          <mj-wrapper mj-class="bg-grey">
-         
-          <!-- Person list -->
-           <mj-section>
+        </mj-column>
+      </mj-section>
+
+      <mj-wrapper mj-class="bg-grey">
+
+        <!-- Person list -->
+        <mj-section>
           <mj-column width="100%">
             <mj-button mj-class="over">
               Doradcy
             </mj-button>
           </mj-column>
         </mj-section>
-          <mj-section padding-top="25" padding-bottom="25">
-        <mj-column width="33%">
-          <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B93812635-06eb-4a6e-9842-1b0fc8eeccab%7D_Artboard.png"  width="150">
-          </mj-image>
-          <mj-text mj-class="h">
-            Małgorzata Skibińska
+        <mj-section padding-top="25" padding-bottom="25">
+          <mj-column width="33%">
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B93812635-06eb-4a6e-9842-1b0fc8eeccab%7D_Artboard.png" width="150">
+            </mj-image>
+            <mj-text mj-class="h">
+              Małgorzata Skibińska
             </mj-text>
-          <mj-text mj-class="p">
-            Doradca ds. Prawa Pracy i zarządzania zasobami ludzkimi.
-          </mj-text>
-        </mj-column>
-        <mj-column width="33%">
-          <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B93812635-06eb-4a6e-9842-1b0fc8eeccab%7D_Artboard.png"  width="150">
-          </mj-image>
-          <mj-text mj-class="h">
-            Małgorzata Skibińska
+            <mj-text mj-class="p">
+              Doradca ds. Prawa Pracy i zarządzania zasobami ludzkimi.
             </mj-text>
-          <mj-text mj-class="p">
-            Doradca ds. Prawa Pracy i zarządzania zasobami ludzkimi.
-          </mj-text>
-        </mj-column>
-            <mj-column width="33%">
-          <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B93812635-06eb-4a6e-9842-1b0fc8eeccab%7D_Artboard.png"  width="150">
-          </mj-image>
-          <mj-text mj-class="h">
-            Małgorzata Skibińska
+          </mj-column>
+          <mj-column width="33%">
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B93812635-06eb-4a6e-9842-1b0fc8eeccab%7D_Artboard.png" width="150">
+            </mj-image>
+            <mj-text mj-class="h">
+              Małgorzata Skibińska
             </mj-text>
-          <mj-text mj-class="p">
-            Doradca ds. Prawa Pracy i zarządzania zasobami ludzkimi.
-          </mj-text>
-        </mj-column>
-      </mj-section>
-            
-            </mj-wrapper>
-            <mj-wrapper mj-class="bg-blue">
-          
-              <!-- Triangle -->
-             <mj-section>
-        <mj-column>
-          <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B6427cb50-1f47-4ce4-8961-7c86be0da962%7D_Triangle_Gray2Blue.png"></mj-image>
- </mj-column>
-          </mj-section>
-            
+            <mj-text mj-class="p">
+              Doradca ds. Prawa Pracy i zarządzania zasobami ludzkimi.
+            </mj-text>
+          </mj-column>
+          <mj-column width="33%">
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B93812635-06eb-4a6e-9842-1b0fc8eeccab%7D_Artboard.png" width="150">
+            </mj-image>
+            <mj-text mj-class="h">
+              Małgorzata Skibińska
+            </mj-text>
+            <mj-text mj-class="p">
+              Doradca ds. Prawa Pracy i zarządzania zasobami ludzkimi.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+      </mj-wrapper>
+      <mj-wrapper mj-class="bg-blue">
+
+        <!-- Triangle -->
+        <mj-section>
+          <mj-column>
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B6427cb50-1f47-4ce4-8961-7c86be0da962%7D_Triangle_Gray2Blue.png"></mj-image>
+          </mj-column>
+        </mj-section>
+
         <mj-section direction="rtl" padding-top="20" padding-bottom="20">
           <mj-column width="50%">
-            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bdc6c90ad-d47d-42b8-a6e8-124ce9e4e920%7D_Banner_Odwrotne_obciazenie_1.jpg" width="300" >
-          </mj-image>
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bdc6c90ad-d47d-42b8-a6e8-124ce9e4e920%7D_Banner_Odwrotne_obciazenie_1.jpg" width="300">
+            </mj-image>
           </mj-column>
-          <mj-column width="50%" >
+          <mj-column width="50%">
             <mj-button mj-class="over bg-red">
-            Bezpłatne webinarium &rarr;
+              Bezpłatne webinarium &rarr;
             </mj-button>
             <mj-text mj-class="h white">
               <strong>Dokładne terminy
@@ -295,35 +255,35 @@
                   </img>
                 </td>
                 <td class="table">
-                    23.07.2017
+                  23.07.2017
                 </td>
-                </tr>
+              </tr>
               <tr>
                 <td class="icon">
                   <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="40" height="40" border="none">
                   </img>
                 </td>
                 <td class="table">
-                    Warszawa
+                  Warszawa
                 </td>
-                </tr>
+              </tr>
             </mj-table>
           </mj-column>
         </mj-section>
-              
-               </mj-wrapper>
-            
-            <!-- Triangle -->
-            <mj-section>
+
+      </mj-wrapper>
+
+      <!-- Triangle -->
+      <mj-section>
         <mj-column>
           <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B1d767391-e748-48c8-b60d-940a59727fcd%7D_Reverse_Triangle_Grey2DarkBlue.png"></mj-image>
- </mj-column>
-          </mj-section>
-            
+        </mj-column>
+      </mj-section>
 
-          <!-- Eloqua Footer -->
-<mj-include path="../WK Include/elq footer.mjml" /> 
-          
-        </mj-container>
-      </mj-body>
-    </mjml>
+
+      <!-- Eloqua Footer -->
+      <mj-include path="../WK Include/elq footer.mjml" />
+
+    </mj-container>
+  </mj-body>
+</mjml>
