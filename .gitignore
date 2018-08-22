@@ -23,5 +23,11 @@ Newsletter\ Confirmation.mjml
 #Ignored Files
 emoji.html
 
+#Node
+node_modules
+package-lock.json
+package.json
+
 #Other files
 .DS_Store
+
