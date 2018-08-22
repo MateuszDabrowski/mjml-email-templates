@@ -1,5 +1,4 @@
 #Ignored Folders
-3rd\ Party
 WK\ Rekrutacja
 WK\ Newsletter
 WK\ Webinaria
@@ -15,12 +14,14 @@ WK\ Profinfo
 WK\ Progman
 WK\ Wznowienia
 WK\ Szkolenia
+WK\ OPE
 
 #Ingored Templates
 Cold\ Mail\ Template.mjml
 Newsletter\ Confirmation.mjml
-vCard.mjml
-Test.mjml
 
 #Ignored Files
 emoji.html
+
+#Other files
+.DS_Store
