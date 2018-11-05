@@ -6,18 +6,18 @@
 
     <!-- MJML Styles -->
     <mj-attributes>
-      <mj-all padding="0" line-height="1.2" />
+      <mj-all padding="0px" line-height="1.2" />
       <mj-column width="90%" vertical-align="top" />
       <mj-text font-family="Fira Sans,Arial,sans-serif" />
       <mj-button font-family="Fira Sans,Arial,sans-serif" />
-      <mj-class name="h" color="#007ac3" font-size="20" padding="10 25 10 25" />
-      <mj-class name="p" color="#767676" font-size="16" padding="10 25 10 25" />
-      <mj-class name="u" color="#767676" font-size="16" padding-right="25" padding-left="5" />
-      <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20" align="left" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
-      <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="18" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
+      <mj-class name="h" color="#007ac3" font-size="20px" padding="10px 25px 10px 25px" />
+      <mj-class name="p" color="#767676" font-size="16px" padding="10px 25px 10px 25px" />
+      <mj-class name="u" color="#767676" font-size="16px" padding-right="25px" padding-left="5px" />
+      <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20px" align="left" vertical-align="middle" border="none" border-radius="0px" inner-padding="15px" />
+      <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="2" align="right" vertical-align="middle" border="none" border-radius="0px" inner-padding="2px" />
 
-      <mj-class name="big" font-size="26" />
-      <mj-class name="small" font-size="16" />
+      <mj-class name="big" font-size="26px" />
+      <mj-class name="small" font-size="16px" />
       <mj-class name="center" align="center" />
       <mj-class name="left" align="left" />
       <mj-class name="right" align="right" />
@@ -31,7 +31,7 @@
       <mj-class name="bg-white" background-color="#ffffff" />
       <mj-class name="bg-grey" background-color="#f0f0f0" />
 
-      <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15" href="ASSET_URL" />
+      <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24px" align="right" vertical-align="middle" border="none" border-radius="0px" inner-padding="15px" href="ASSET_URL" />
       <mj-image href="ASSET_URL" />
     </mj-attributes>
 
@@ -72,13 +72,13 @@
       </mj-section>
 
       <!-- Logo and View in browser -->
-      <mj-section padding-bottom="20">
+      <mj-section padding-bottom="20px">
         <mj-column width="50%">
-          <mj-image align="center" href="http://www.wolterskluwer.pl" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
+          <mj-image align="center" href="http://www.wolterskluwer.pl" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200px" border="none">
           </mj-image>
         </mj-column>
         <mj-column width="50%">
-          <mj-text mj-class="center grey" font-size="13" padding-top="16">
+          <mj-text mj-class="center grey" font-size="13px" padding-top="16px">
             <span style="font-size: 13px">
                 <a href="https://s1364398973.t.en25.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #767676;">Wyświetl w przeglądarce
                 </a>
@@ -103,7 +103,7 @@
         <!-- Image -->
         <mj-section>
           <mj-column>
-            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B323c1075-99e7-46df-a8e5-98d6e7e958cc%7D_Email_Header_Image_14.jpg" alt="Pobierz grafikę tytułową" align="center" border="none" width="540">
+            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B323c1075-99e7-46df-a8e5-98d6e7e958cc%7D_Email_Header_Image_14.jpg" alt="Pobierz grafikę tytułową" align="center" border="none" width="540px">
             </mj-image>
           </mj-column>
         </mj-section>
@@ -130,7 +130,7 @@
         <!-- Spacer -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 

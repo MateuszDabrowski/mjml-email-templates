@@ -6,18 +6,18 @@
 
     <!-- MJML Styles -->
     <mj-attributes>
-      <mj-all padding="0" line-height="1.2" />
+      <mj-all padding="0px" line-height="1.2" />
       <mj-column width="90%" vertical-align="top" />
       <mj-text font-family="Fira Sans,Arial,sans-serif" />
       <mj-button font-family="Fira Sans,Arial,sans-serif" />
-      <mj-class name="h" color="#007ac3" font-size="20" padding="10 25 10 25" />
-      <mj-class name="p" color="#767676" font-size="16" padding="10 25 10 25" />
-      <mj-class name="u" color="#767676" font-size="16" padding-right="25" padding-left="5" />
-      <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20" align="left" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
-      <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="2" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="2" />
+      <mj-class name="h" color="#007ac3" font-size="20px" padding="10px 25px 10px 25px" />
+      <mj-class name="p" color="#767676" font-size="16px" padding="10px 25px 10px 25px" />
+      <mj-class name="u" color="#767676" font-size="16px" padding-right="25px" padding-left="5px" />
+      <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20px" align="left" vertical-align="middle" border="none" border-radius="0px" inner-padding="15px" />
+      <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="2" align="right" vertical-align="middle" border="none" border-radius="0px" inner-padding="2px" />
 
-      <mj-class name="big" font-size="26" />
-      <mj-class name="small" font-size="16" />
+      <mj-class name="big" font-size="26px" />
+      <mj-class name="small" font-size="16px" />
       <mj-class name="center" align="center" />
       <mj-class name="left" align="left" />
       <mj-class name="right" align="right" />
@@ -31,9 +31,9 @@
       <mj-class name="bg-white" background-color="#ffffff" />
       <mj-class name="bg-grey" background-color="#f0f0f0" />
 
-      <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15" href="http://s1364398973.t.eloqua.com/e/f2.aspx?elqFormName=INSERT-HTML-FORM-NAME&elqSiteID=1364398973&emailAddress=<span%20class=eloquaemail>EmailAddress</span>&potwierdzenie=Potwierdzam"
+      <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24" align="right" vertical-align="middle" border="none" border-radius="0px" inner-padding="15px" href="http://s1364398973.t.eloqua.com/e/f2.aspx?elqFormName=3831&elqSiteID=1364398973&emailAddress=<span%20class=eloquaemail>EmailAddress</span>&utm_source=<span%20class=eloquaemail>LEAD_Campaign_Detail___Copy1</span>&utm_campaign=<span%20class=eloquaemail>LEAD_Campaign_Code___Copy1</span>&form_url=<span%20class=eloquaemail>WKCORP_Opt_In_Medium_URL1</span>"
       />
-      <mj-image href="http://s1364398973.t.eloqua.com/e/f2.aspx?elqFormName=INSERT-HTML-FORM-NAME&elqSiteID=1364398973&emailAddress=<span%20class=eloquaemail>EmailAddress</span>&potwierdzenie=Potwierdzam" />
+      <mj-image href="http://s1364398973.t.eloqua.com/e/f2.aspx?elqFormName=3831&elqSiteID=1364398973&emailAddress=<span%20class=eloquaemail>EmailAddress</span>&utm_source=<span%20class=eloquaemail>LEAD_Campaign_Detail___Copy1</span>&utm_campaign=<span%20class=eloquaemail>LEAD_Campaign_Code___Copy1</span>&form_url=<span%20class=eloquaemail>WKCORP_Opt_In_Medium_URL1</span>" />
     </mj-attributes>
 
     <!-- HTML Styles -->
@@ -62,7 +62,7 @@
             <p>
               <!--<![endif]-->
 
-              <span class="preheader">Potwierdź e-mail i zdobywaj wiedzę
+              <span class="preheader">Dziękujemy za wypełnienie formularza
                 <mj-include path="../WK Include/post-header.mjml" />
               </span>
 
@@ -73,28 +73,16 @@
         </mj-column>
       </mj-section>
 
-     <!-- View in browser -->
-      <mj-section padding-bottom="20">
-        <mj-column width="100%">
-          <mj-text mj-class="center grey" font-size="13" padding-top="8">
-            <span style="font-size: 12px">
-              <a href="https://s1364398973.t.en25.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #b8b8b8;">Wyświetl w przeglądarce
-              </a>
-            </span>
-          </mj-text>
-        </mj-column>
-      </mj-section>
-
      <!-- Header links -->
-      <mj-section padding-bottom="20">
+      <mj-section padding-bottom="10px">
         <mj-column width="50%">
-          <mj-image mj-class="left" padding-left="25" href="http://www.profinfo.pl?kampania=WKC0118019_IPF007&utm_source=mailing-wewnetrzny&utm_medium=email&utm_campaign=rodo-w-pracy-zmiana-terminu&utm_term=WKC0118019_IPF007&utm_content=rodo-zmiana-terminu" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg"
-            alt="Wolters Kluwer" width="200" border="none">
+          <mj-image mj-class="left" padding-left="25px" href="http://www.wolterskluwer.pl/" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg"
+            alt="Wolters Kluwer" width="200px" border="none">
           </mj-image>
         </mj-column>
         <mj-column width="50%">
-          <mj-text mj-class="right green" font-size="20" padding-top="10" padding-right="25">
-              <a href="https://www.profinfo.pl/nowosc?kampania=WKC0118019_IPF007&utm_source=mailing-wewnetrzny&utm_medium=email&utm_campaign=rodo-w-pracy-zmiana-terminu&utm_term=WKC0118019_IPF007&utm_content=rodo-zmiana-terminu" target="_blank" title="Nowości" style="text-decoration: none; color: #85bc20;">Nazwa Produktu</a>
+          <mj-text mj-class="p right green" padding-top="12px" padding-right="25px">
+              <a href="https://s1364398973.t.en25.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Wyświetl w przeglądarce" style="text-decoration: none; color: #85bc20;">Wyświetl w przeglądarce</a>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -115,7 +103,7 @@
         <!-- Image -->
         <mj-section>
           <mj-column>
-            <mj-image src="http://placehold.it/540x250" alt="Pobierz grafikę tytułową" align="center" border="none" width="540">
+            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B323c1075-99e7-46df-a8e5-98d6e7e958cc%7D_Email_Header_Image_14.jpg" alt="Pobierz grafikę tytułową" align="center" border="none" width="540px">
             </mj-image>
           </mj-column>
         </mj-section>
@@ -124,8 +112,8 @@
         <mj-section>
           <mj-column mj-class="bg-white">
             <mj-text mj-class="h grey big">
-              <p>Dziękujemy za zainteresowanie e&#8209;bookiem <em>"Title"</em>.</p>
-              <p style="font-size:0.7em;">Aby otrzymać link do e&#8209;booka, potwierdź swój adres e&#8209;mail</p>
+              <p>Dziękujemy za Twoje zaufanie</em>.</p>
+              <p style="font-size:0.7em;">Aby otrzymać aktualne informacje o najważniejszych <b>wydarzeniach</b> branżowych, bezpłatnych <b>szkoleniach</b>, <b>premierach wydawniczych</b> i <b>narzędziach</b> usprawiniających Twoją pracę, potwierdź wypełnienie formularza adresem mailowym <span style="font-weight:bold" class=eloquaemail >EmailAddress</span>.</p>
             </mj-text>
           </mj-column>
         </mj-section>
@@ -134,7 +122,7 @@
         <mj-section>
           <mj-column>
             <mj-button mj-class="cta">
-              Potwierdzam adres e&#8209;mail &rarr;
+              Potwierdzam adres e&#8209;mail »
             </mj-button>
           </mj-column>
         </mj-section>
@@ -142,7 +130,7 @@
         <!-- Spacer -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 

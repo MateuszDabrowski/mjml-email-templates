@@ -6,18 +6,18 @@
 
     <!-- MJML Styles -->
     <mj-attributes>
-      <mj-all padding="0" line-height="1.2" />
+      <mj-all padding="0px" line-height="1.2" />
       <mj-column width="90%" vertical-align="top" />
       <mj-text font-family="Fira Sans,Arial,sans-serif" />
       <mj-button font-family="Fira Sans,Arial,sans-serif" />
-      <mj-class name="h" color="#007ac3" font-size="20" padding="10 25 10 25" />
-      <mj-class name="p" color="#767676" font-size="16" padding="10 25 10 25" />
-      <mj-class name="u" color="#767676" font-size="16" padding-right="25" padding-left="5" />
-      <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20" align="left" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
-      <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="18" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
+      <mj-class name="h" color="#007ac3" font-size="20px" padding="10px 25px 10px 25px" />
+      <mj-class name="p" color="#767676" font-size="16px" padding="10px 25px 10px 25px" />
+      <mj-class name="u" color="#767676" font-size="16px" padding-right="25px" padding-left="5px" />
+      <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20px" align="left" vertical-align="middle" border="none" border-radius="0px" inner-padding="15px" />
+      <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="2" align="right" vertical-align="middle" border="none" border-radius="0px" inner-padding="2px" />
 
-      <mj-class name="big" font-size="26" />
-      <mj-class name="small" font-size="16" />
+      <mj-class name="big" font-size="26px" />
+      <mj-class name="small" font-size="16px" />
       <mj-class name="center" align="center" />
       <mj-class name="left" align="left" />
       <mj-class name="right" align="right" />
@@ -31,7 +31,7 @@
       <mj-class name="bg-white" background-color="#ffffff" />
       <mj-class name="bg-grey" background-color="#f0f0f0" />
 
-      <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15" href="http://wolterskluwer.pl" />
+      <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24px" align="right" vertical-align="middle" border="none" border-radius="0px" inner-padding="15px" href="http://wolterskluwer.pl" />
       <mj-image href="http://wolterskluwer.pl" />
     </mj-attributes>
 
@@ -72,13 +72,13 @@
       </mj-section>
 
       <!-- Logo and View in browser -->
-      <mj-section padding-bottom="20">
+      <mj-section padding-bottom="20px">
         <mj-column width="50%">
-          <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200" border="none">
+          <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B4024e722-f1e5-458e-86a2-0e53f923d176%7D_logo.jpg" alt="Wolters Kluwer" width="200px" border="none">
           </mj-image>
         </mj-column>
         <mj-column width="50%">
-          <mj-text mj-class="center grey" font-size="13" padding-top="16">
+          <mj-text mj-class="center grey" font-size="13px" padding-top="16px">
             <span style="font-size: 13px">
               <a href="https://s1364398973.t.en25.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #767676;">Wyświetl w przeglądarce
               </a>
@@ -103,7 +103,7 @@
         <!-- Header Title -->
         <mj-section>
           <mj-column width="100%">
-            <mj-text mj-class="h" font-size="35" padding="10 25 10 27">
+            <mj-text mj-class="h" font-size="35px" padding="10px 25px 10px 27px">
               <p>Tytuł zachęcający do przeczytania mailingu
               </p>
             </mj-text>
@@ -113,7 +113,7 @@
         <!-- Main image -->
         <mj-section>
           <mj-column>
-            <mj-image src="http://placehold.it/540x250" alt="Pobierz grafikę tytułową" align="center" border="none" width="540">
+            <mj-image src="http://placehold.it/540x250" alt="Pobierz grafikę tytułową" align="center" border="none" width="540px">
             </mj-image>
           </mj-column>
         </mj-section>
@@ -140,7 +140,7 @@
         <!-- Spacer -->
         <mj-section>
           <mj-column>
-            <mj-text height="30">&nbsp;</mj-text>
+            <mj-text height="30px">&nbsp;</mj-text>
           </mj-column>
         </mj-section>
 
@@ -170,7 +170,7 @@
         <!-- Spacer -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 
@@ -197,7 +197,7 @@
         <!-- Spacer -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 
@@ -211,7 +211,7 @@
         </mj-section>
         <mj-section>
           <mj-column mj-class="bg-white">
-            <mj-text mj-class="h" padding-top="20">
+            <mj-text mj-class="h" padding-top="20px">
               Mamy dla Ciebie idealne rozwiązanie, które zapewni:
             </mj-text>
             <mj-text mj-class="u">
@@ -230,7 +230,7 @@
                 </li>
               </ul>
             </mj-text>
-            <mj-text mj-class="h" padding-bottom="20">
+            <mj-text mj-class="h" padding-bottom="20px">
               Kup już dziś!
             </mj-text>
           </mj-column>
@@ -248,7 +248,7 @@
         <!-- Spacer -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 
@@ -262,18 +262,18 @@
         </mj-section>
         <mj-section direction="rtl">
           <mj-column width="25%" mj-class="bg-blue">
-            <mj-text height="10">
+            <mj-text height="10px">
             </mj-text>
           </mj-column>
           <mj-column width="65%" mj-class="bg-white">
-            <mj-text height="10">
+            <mj-text height="10px">
             </mj-text>
           </mj-column>
         </mj-section>
         <!-- Highlighted list content -->
         <mj-section>
           <mj-column mj-class="bg-white">
-            <mj-text mj-class="h" padding-top="20">
+            <mj-text mj-class="h" padding-top="20px">
               Mamy dla Ciebie idealne rozwiązanie, które zapewni:
             </mj-text>
             <mj-text mj-class="u">
@@ -292,7 +292,7 @@
                 </li>
               </ul>
             </mj-text>
-            <mj-text mj-class="h" padding-bottom="20">
+            <mj-text mj-class="h" padding-bottom="20px">
               Kup już dziś!
             </mj-text>
           </mj-column>
@@ -300,11 +300,11 @@
         <!-- End of highlighted content -->
         <mj-section>
           <mj-column width="65%" mj-class="bg-white">
-            <mj-text height="10">
+            <mj-text height="10px">
             </mj-text>
           </mj-column>
           <mj-column width="25%" mj-class="bg-blue">
-            <mj-text height="10">
+            <mj-text height="10px">
             </mj-text>
           </mj-column>
         </mj-section>
@@ -312,14 +312,14 @@
         <!-- Spacer -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 
         <!-- Link list section -->
         <mj-section>
           <mj-column width="70%">
-            <mj-text mj-class="h left" padding-left="30" padding-top="20" padding-bottom="20">
+            <mj-text mj-class="h left" padding-left="30px" padding-top="20px" padding-bottom="20px">
               Obszar listy:
             </mj-text>
           </mj-column>
@@ -337,7 +337,7 @@
         <!-- Spacer -->
         <mj-section>
           <mj-column>
-            <mj-text height="15">
+            <mj-text height="15px">
             </mj-text>
           </mj-column>
         </mj-section>
@@ -352,7 +352,7 @@
         <!-- Spacer -->
         <mj-section>
           <mj-column>
-            <mj-text height="15">
+            <mj-text height="15px">
             </mj-text>
           </mj-column>
         </mj-section>
@@ -368,7 +368,7 @@
         <!-- Spacer -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 
@@ -382,7 +382,7 @@
         </mj-section>
         <mj-section>
           <mj-column mj-class="bg-white">
-            <mj-text mj-class="h" padding-top="20">
+            <mj-text mj-class="h" padding-top="20px">
               Co zawierają harmonogramy?
             </mj-text>
           </mj-column>
@@ -392,7 +392,7 @@
             <mj-table>
               <tr>
                 <td class="icon">
-                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57px" height="58px" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -404,7 +404,7 @@
               </tr>
               <tr>
                 <td class="icon">
-                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57px" height="58px" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -416,7 +416,7 @@
               </tr>
               <tr>
                 <td class="icon">
-                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57px" height="58px" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -428,7 +428,7 @@
               </tr>
               <tr>
                 <td class="icon">
-                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+                  <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57px" height="58px" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -445,7 +445,7 @@
         <!-- Spacer -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 
@@ -459,36 +459,36 @@
         </mj-section>
         <mj-section>
           <mj-column mj-class="bg-white">
-            <mj-text mj-class="h" padding-top="20">
+            <mj-text mj-class="h" padding-top="20px">
               Co zawierają harmonogramy?
             </mj-text>
           </mj-column>
         </mj-section>
         <mj-section>
           <mj-column width="15%" mj-class="bg-white" vertical-align="top">
-            <mj-text mj-class="bg-white" height="26">
+            <mj-text mj-class="bg-white" height="26px">
             </mj-text>
-            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57px" height="58px" border="none">
             </mj-image>
             <mj-text mj-class="bg-white" height="36">
             </mj-text>
           </mj-column>
           <mj-column width="30%" mj-class="bg-white" vertical-align="top">
-            <mj-text mj-class="p" height="100" padding-left="10">
+            <mj-text mj-class="p" height="100px" padding-left="10px">
               <strong>Dokładne terminy
               </strong> wykonania zadań przez dyrektorów szkół
             </mj-text>
           </mj-column>
           <mj-column width="15%" mj-class="bg-white" vertical-align="top">
-            <mj-text mj-class="bg-white" height="26">
+            <mj-text mj-class="bg-white" height="26px">
             </mj-text>
-            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B587754d6-ad47-45c4-aedb-6d8028a199b7%7D_Icon2.png" alt="Pobierz mnie" width="57" height="58" border="none">
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B587754d6-ad47-45c4-aedb-6d8028a199b7%7D_Icon2.png" alt="Pobierz mnie" width="57px" height="58px" border="none">
             </mj-image>
-            <mj-text mj-class="bg-white" height="36">
+            <mj-text mj-class="bg-white" height="36px">
             </mj-text>
           </mj-column>
           <mj-column width="30%" mj-class="bg-white" vertical-align="top">
-            <mj-text mj-class="p" height="100" padding-left="10">
+            <mj-text mj-class="p" height="100px" padding-left="10px">
               <strong>Podstawę prawną
               </strong> wraz z komentarzami przygotowanymi przez ekspertów
             </mj-text>
@@ -496,29 +496,29 @@
         </mj-section>
         <mj-section>
           <mj-column width="15%" mj-class="bg-white" vertical-align="top">
-            <mj-text mj-class="bg-white" height="35">
+            <mj-text mj-class="bg-white" height="35px">
             </mj-text>
-            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B655df83c-fdf4-4700-a3b2-d20eb8810a90%7D_Icon4.png" alt="Pobierz mnie" width="57" height="58" border="none">
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B655df83c-fdf4-4700-a3b2-d20eb8810a90%7D_Icon4.png" alt="Pobierz mnie" width="57px" height="58px" border="none">
             </mj-image>
-            <mj-text mj-class="bg-white" height="37">
+            <mj-text mj-class="bg-white" height="37px">
             </mj-text>
           </mj-column>
           <mj-column width="30%" mj-class="bg-white" vertical-align="top">
-            <mj-text mj-class="p" height="110" padding-left="10">
+            <mj-text mj-class="p" height="110px" padding-left="10px">
               <strong>Wzory dokumentów
               </strong> ułatwiające przygotowanie planów i niezbędnych sprawozdań
             </mj-text>
           </mj-column>
           <mj-column width="15%" mj-class="bg-white" vertical-align="top">
-            <mj-text mj-class="bg-white" height="35">
+            <mj-text mj-class="bg-white" height="35px">
             </mj-text>
-            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B965bf742-98c4-4cc7-b4ff-479913b8cb66%7D_Icon1.png" alt="Pobierz mnie" width="57" height="58" border="none">
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B965bf742-98c4-4cc7-b4ff-479913b8cb66%7D_Icon1.png" alt="Pobierz mnie" width="57px" height="58px" border="none">
             </mj-image>
-            <mj-text mj-class="bg-white" height="37">
+            <mj-text mj-class="bg-white" height="37px">
             </mj-text>
           </mj-column>
           <mj-column width="30%" mj-class="bg-white" vertical-align="top">
-            <mj-text mj-class="p" height="110" padding-left="10">
+            <mj-text mj-class="p" height="110px" padding-left="10px">
               <strong>Informacje o zagrożeniach i ryzykach
               </strong> wynikających z niepodjęcia działań w terminie
             </mj-text>
@@ -527,7 +527,7 @@
         <!-- Description section -->
         <mj-section>
           <mj-column width="90%" mj-class="bg-white">
-            <mj-text height="20">
+            <mj-text height="20px">
             </mj-text>
           </mj-column>
         </mj-section>
@@ -536,7 +536,7 @@
             <mj-text mj-class="h">
               W opracowaniach znajdują się harmonogramy dla dyrektorów szkół podstawowych, gimnazjów, szkół policealnych; odnoszę się one do:
             </mj-text>
-            <mj-text mj-class="p" padding-left="5" padding-bottom="0">
+            <mj-text mj-class="p" padding-left="5px" padding-bottom="0px">
               <ul>
                 <li>
                   <p>Ruchu kadrowego nauczycieli i pracowników niepedagogicznych
@@ -566,21 +566,21 @@
         <!-- Blue background section -->
         <mj-section mj-class="bg-blue">
           <mj-column width="90%" mj-class="bg-white">
-            <mj-text height="30">
+            <mj-text height="30px">
             </mj-text>
           </mj-column>
         </mj-section>
         <mj-section mj-class="bg-blue">
           <mj-column width="15%">
-            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bb7d1f0b0-e756-4624-b25c-9a9dcb11341a%7D_IconLower.png" align="center" padding-top="50" height="85" width="85">
+            <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bb7d1f0b0-e756-4624-b25c-9a9dcb11341a%7D_IconLower.png" align="center" padding-top="50px" height="85px" width="85px">
             </mj-image>
           </mj-column>
           <mj-column width="75%" mj-class="bg-blue">
-            <mj-text mj-class="h white big" padding-bottom="0">
+            <mj-text mj-class="h white big" padding-bottom="0px">
               <p>Zamów prezentację programu
               </p>
             </mj-text>
-            <mj-text mj-class="h white" padding-top="0" padding-bottom="30">
+            <mj-text mj-class="h white" padding-top="0px" padding-bottom="30px">
               oddzwonimy do Ciebie i przedstawimy Ci możliwości korzystania z LEX Prawo Oświatowe Premium
             </mj-text>
           </mj-column>
@@ -598,7 +598,7 @@
         <!-- Spacer -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 

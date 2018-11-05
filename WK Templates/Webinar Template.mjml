@@ -6,17 +6,18 @@
 
     <!-- MJML Styles -->
     <mj-attributes>
-      <mj-all padding="0" line-height="1.2" />
+      <mj-all padding="0px" line-height="1.2" />
       <mj-column width="90%" vertical-align="top" />
       <mj-text font-family="Fira Sans,Arial,sans-serif" />
       <mj-button font-family="Fira Sans,Arial,sans-serif" />
-      <mj-class name="h" color="#007ac3" font-size="20" padding="10 25 10 25" />
-      <mj-class name="p" color="#767676" font-size="16" padding="10 25 10 25" />
-      <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20" align="left" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
-      <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="18" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
+      <mj-class name="h" color="#007ac3" font-size="20px" padding="10px 25px 10px 25px" />
+      <mj-class name="p" color="#767676" font-size="16px" padding="10px 25px 10px 25px" />
+      <mj-class name="u" color="#767676" font-size="16px" padding-right="25px" padding-left="5px" />
+      <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20px" align="left" vertical-align="middle" border="none" border-radius="0px" inner-padding="15px" />
+      <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="2" align="right" vertical-align="middle" border="none" border-radius="0px" inner-padding="2px" />
 
-      <mj-class name="big" font-size="32" />
-      <mj-class name="small" font-size="14" />
+      <mj-class name="big" font-size="32px" />
+      <mj-class name="small" font-size="14px" />
       <mj-class name="center" align="center" />
       <mj-class name="left" align="left" />
       <mj-class name="right" align="right" />
@@ -30,7 +31,7 @@
       <mj-class name="bg-white" background-color="#ffffff" />
       <mj-class name="bg-grey" background-color="#f0f0f0" />
 
-      <mj-class name="cta" background-color="#85bc20" color="#ffffff" font-size="24" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15 30 15 30" href="https://szkolenia.wolterskluwer.pl/" />
+      <mj-class name="cta" background-color="#85bc20" color="#ffffff" font-size="24px" align="right" vertical-align="middle" border="none" border-radius="0px" inner-padding="15px 30px 15px 30px" href="https://szkolenia.wolterskluwer.pl/" />
       <mj-image href="https://szkolenia.wolterskluwer.pl/" />
     </mj-attributes>
 
@@ -71,13 +72,13 @@
       </mj-section>
 
       <!-- Logo and View in browser -->
-      <mj-section padding-bottom="20">
+      <mj-section padding-bottom="20px">
         <mj-column width="50%">
           <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B74bb02a7-db11-4d36-975e-983dd1563db1%7D_SPRING-964_Logo.jpg" alt="Wolters Kluwer" width="200" border="none">
           </mj-image>
         </mj-column>
         <mj-column width="50%">
-          <mj-text mj-class="center grey" font-size="13" padding-top="16">
+          <mj-text mj-class="center grey" font-size="13px" padding-top="16px">
             <span style="font-size: 13px">
               <a href="https://s1364398973.t.en25.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #767676;">Wyświetl w przeglądarce
               </a>
@@ -103,7 +104,7 @@
         <!-- Grafika -->
         <mj-section>
           <mj-column width="100%">
-            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bfacc4df9-c6cc-4bae-adfb-c2da3d3683aa%7D_Szkolenia-header.png" alt="Szkolenie online - Wolters Kluwer Polska" align="center" border="none" width="600">
+            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bfacc4df9-c6cc-4bae-adfb-c2da3d3683aa%7D_Szkolenia-header.png" alt="Szkolenie online - Wolters Kluwer Polska" align="center" border="none" width="600px">
             </mj-image>
           </mj-column>
         </mj-section>
@@ -111,7 +112,7 @@
         <!-- Opis -->
         <mj-section mj-class="bg-white">
           <mj-column mj-class="bg-white" width="96%">
-            <mj-text mj-class="h big grey" padding-top="30">
+            <mj-text mj-class="h big grey" padding-top="30px">
               <strong>Claim szkolenia</strong>
             </mj-text>
             <mj-text mj-class="h grey">
@@ -123,17 +124,17 @@
         <!-- Data -->
         <mj-section>
           <mj-column width="100%">
-            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Be910224a-a251-458c-920a-5a694fa40771%7D_SPRING-964_Bar.jpg" alt="Szkolenie odbędzie się 14.12.2017 o godz. 17:00" align="center" border="none" width="600">
+            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Be910224a-a251-458c-920a-5a694fa40771%7D_SPRING-964_Bar.jpg" alt="Szkolenie odbędzie się 14.12.2017 o godz. 17:00" align="center" border="none" width="600px">
             </mj-image>
           </mj-column>
         </mj-section>
         <!-- Wartości -->
         <mj-section>
           <mj-column mj-class="bg-white" width="100%">
-            <mj-table padding-bottom="10">
+            <mj-table padding-bottom="10px">
               <tr>
                 <td class="icon">
-                  <img src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B4dbeef72-6458-45d8-bd16-5d3439c2121e%7D_SPRING-964_Icon_A.jpg" alt="Oszczędność czasu" width="57" height="58" border="none">
+                  <img src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B4dbeef72-6458-45d8-bd16-5d3439c2121e%7D_SPRING-964_Icon_A.jpg" alt="Oszczędność czasu" width="57px" height="58px" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -143,7 +144,7 @@
               </tr>
               <tr>
                 <td class="icon">
-                  <img src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bed1173cd-50c9-4c0e-9ed4-5c1bf3cfff80%7D_SPRING-964_Icon_B.jpg" alt="Dostępne materiały" width="57" height="58" border="none">
+                  <img src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bed1173cd-50c9-4c0e-9ed4-5c1bf3cfff80%7D_SPRING-964_Icon_B.jpg" alt="Dostępne materiały" width="57px" height="58px" border="none">
                   </img>
                 </td>
                 <td class="table">
@@ -166,18 +167,18 @@
         <!-- Odstęp -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 
         <!-- Program -->
         <mj-section mj-class="bg-blue">
           <mj-column width="15%">
-            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B0431dfdf-2bc9-4ea6-9ee5-feee31bd6689%7D_SPRING-964_Icon_C.jpg" alt="Program szkolenia" padding-top="15" align="center" height="85" width="85">
+            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B0431dfdf-2bc9-4ea6-9ee5-feee31bd6689%7D_SPRING-964_Icon_C.jpg" alt="Program szkolenia" padding-top="15px" align="center" height="85px" width="85px">
             </mj-image>
           </mj-column>
           <mj-column width="75%" mj-class="bg-blue">
-            <mj-text mj-class="h white big" padding-top="30" padding-bottom="10">
+            <mj-text mj-class="h white big" padding-top="30px" padding-bottom="10px">
               <p>Program szkolenia
               </p>
             </mj-text>
@@ -195,20 +196,20 @@
         <!-- Odstęp -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 
         <!-- Prelegent -->
         <mj-section mj-class="bg-white">
           <mj-column mj-class="bg-white" width="65%">
-            <mj-text mj-class="h blue big bold" padding-top="30" padding-bottom="30">Prelegent
+            <mj-text mj-class="h blue big bold" padding-top="30px" padding-bottom="30px">Prelegent
             </mj-text>
             <mj-text mj-class="p grey"><strong>Wieloletni dyrektor szkoły prowadzącej kształcenie zawodowe</strong>. Promotor zmian w obszarze kształcenia zawodowego oraz mentor na Studiach Podyplomowych Liderów Oświaty; trener CEO, trener i <span style="color: #85bc20;">psychoterapeuta Gestalt</span>.
             </mj-text>
           </mj-column>
           <mj-column mj-class="bg-white" width="35%">
-            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B7bbdbdaf-1f33-4da0-8175-f4df9a5e2b1c%7D_Henryk.png" alt="Henryk Jasionek" align="center" border="none" width="150" padding-top="40" padding-bottom="30">
+            <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B7bbdbdaf-1f33-4da0-8175-f4df9a5e2b1c%7D_Henryk.png" alt="Henryk Jasionek" align="center" border="none" width="150px" padding-top="40px" padding-bottom="30px">
             </mj-image>
           </mj-column>
         </mj-section>
@@ -216,7 +217,7 @@
         <!-- Odstęp -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 
@@ -224,11 +225,11 @@
         <mj-section>
           <mj-group mj-class="bg-green">
             <mj-column width="20%" vertical-align="middle">
-              <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bfe095f22-3851-489f-a6e2-53ae47182833%7D_certificate_white.png" alt="Uzyskaj certyfikat" padding="10" height="50" width="50">
+              <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7Bfe095f22-3851-489f-a6e2-53ae47182833%7D_certificate_white.png" alt="Uzyskaj certyfikat" padding="10px" height="50px" width="50px">
               </mj-image>
             </mj-column>
             <mj-column width="80%" vertical-align="middle">
-              <mj-text mj-class="h white" padding-top="20" padding-bottom="20">
+              <mj-text mj-class="h white" padding-top="20px" padding-bottom="20px">
                 Weź udział, zdaj test, <strong>otrzymaj certyfikat</strong>!
               </mj-text>
             </mj-column>
@@ -238,14 +239,14 @@
         <!-- Odstęp -->
         <mj-section>
           <mj-column>
-            <mj-text height="30"></mj-text>
+            <mj-text height="30px"></mj-text>
           </mj-column>
         </mj-section>
 
         <!-- Pomoc -->
         <mj-section mj-class="bg-white">
           <mj-column>
-            <mj-text mj-class="p" padding-bottom="0" padding-top="20">
+            <mj-text mj-class="p" padding-bottom="0px" padding-top="20px">
               Jeżeli masz problem z zalogowaniem się lub potrzebujesz pomocy:
             </mj-text>
           </mj-column>

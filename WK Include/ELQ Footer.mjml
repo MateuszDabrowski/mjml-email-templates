@@ -1,6 +1,6 @@
 <mj-section background-color="#767676">
 <mj-column>
-<mj-text color="#ffffff"  padding-bottom="20" padding-top="20">
+<mj-text color="#ffffff"  padding-bottom="20px" padding-top="20px">
 <span elqid="253" elqtype="Section" class="remove-absolute" style="display: block"></span>
 </mj-text>
 </mj-column>

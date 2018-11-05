@@ -6,18 +6,18 @@
 
     <!-- MJML Styles -->
     <mj-attributes>
-      <mj-all padding="0" line-height="1.2" />
+      <mj-all padding="0px" line-height="1.2" />
       <mj-column width="96%" vertical-align="top" />
       <mj-text font-family="Fira Sans,Arial,sans-serif" />
       <mj-button font-family="Fira Sans,Arial,sans-serif" />
-      <mj-class name="h" color="#007ac3" font-size="20" padding="10 25 10 25" />
-      <mj-class name="p" color="#767676" font-size="16" padding="10 25 10 25" />
-      <mj-class name="u" color="#767676" font-size="16" padding-right="25" padding-left="5" />
-      <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20" align="left" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
-      <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="18" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15" />
+      <mj-class name="h" color="#007ac3" font-size="20px" padding="10px 25px 10px 25px" />
+      <mj-class name="p" color="#767676" font-size="16px" padding="10px 25px 10px 25px" />
+      <mj-class name="u" color="#767676" font-size="16px" padding-right="25px" padding-left="5px" />
+      <mj-class name="over" background-color="#007ac3" color="#ffffff" font-size="20px" align="left" vertical-align="middle" border="none" border-radius="0px" inner-padding="15px" />
+      <mj-class name="bar" background-color="#e5202e" color="#ffffff" font-size="2" align="right" vertical-align="middle" border="none" border-radius="0px" inner-padding="2px" />
 
-      <mj-class name="big" font-size="26" />
-      <mj-class name="small" font-size="16" />
+      <mj-class name="big" font-size="26px" />
+      <mj-class name="small" font-size="16px" />
       <mj-class name="center" align="center" />
       <mj-class name="left" align="left" />
       <mj-class name="right" align="right" />
@@ -32,7 +32,7 @@
       <mj-class name="bg-white" background-color="#ffffff" />
       <mj-class name="bg-grey" background-color="#f0f0f0" />
 
-      <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24" align="right" vertical-align="middle" border="none" border-radius="0" inner-padding="15" href="http://wolterskluwer.pl" />
+      <mj-class name="cta" background-color="#e5202e" color="#ffffff" font-size="24px" align="right" vertical-align="middle" border="none" border-radius="0px" inner-padding="15px" href="http://wolterskluwer.pl" />
       <mj-image href="http://wolterskluwer.pl" />
     </mj-attributes>
 
@@ -73,13 +73,13 @@
       </mj-section>
 
       <!-- Logo and View in browser -->
-      <mj-section padding-bottom="20">
+      <mj-section padding-bottom="20px">
         <mj-column width="50%">
-          <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B74bb02a7-db11-4d36-975e-983dd1563db1%7D_SPRING-964_Logo.jpg" alt="Wolters Kluwer" width="200" border="none">
+          <mj-image mj-class="center" href="http://www.wolterskluwer.pl" src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B74bb02a7-db11-4d36-975e-983dd1563db1%7D_SPRING-964_Logo.jpg" alt="Wolters Kluwer" width="200px" border="none">
           </mj-image>
         </mj-column>
         <mj-column width="50%">
-          <mj-text mj-class="center grey" font-size="13" padding-top="16">
+          <mj-text mj-class="center grey" font-size="13px" padding-top="16px">
             <span style="font-size: 13px">
               <a href="https://s1364398973.t.en25.com/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" target="_blank" title="Online" style="text-decoration: none; color: #767676;">Wyświetl w przeglądarce
               </a>
@@ -103,7 +103,7 @@
       <!-- Main image -->
       <mj-section>
         <mj-column>
-          <mj-image src="http://placehold.it/600x250" alt="Pobierz grafikę tytułową" align="center" border="none" width="600">
+          <mj-image src="http://placehold.it/600x250" alt="Pobierz grafikę tytułową" align="center" border="none" width="600px">
           </mj-image>
         </mj-column>
       </mj-section>
@@ -130,18 +130,18 @@
       <!-- Spacer -->
       <mj-section>
         <mj-column>
-          <mj-text height="30">&nbsp;</mj-text>
+          <mj-text height="30px">&nbsp;</mj-text>
         </mj-column>
       </mj-section>
 
       <!-- Main text -->
       <mj-section>
         <mj-column mj-class="bg-white">
-          <mj-text mj-class="h big bold" padding-bottom="0">
+          <mj-text mj-class="h big bold" padding-bottom="0px">
             <p>Pamiętaj!</p>
             <p style="font-size:18px">Twoi pracownicy mogą korzystać ze wszystkich zasobów programu:</p>
           </mj-text>
-          <mj-text mj-class="u" padding-top="0">
+          <mj-text mj-class="u" padding-top="0px">
             <ul>
               <li>
                 <p>analiz tematycznych, odpowiedzi na pytania, wzorów dokumentów oraz poradników,</p>
@@ -186,7 +186,7 @@
       <!-- Odstęp -->
       <mj-section>
         <mj-column>
-          <mj-text height="30"></mj-text>
+          <mj-text height="30px"></mj-text>
         </mj-column>
       </mj-section>
 
@@ -207,25 +207,25 @@
       <!-- Spacer -->
       <mj-section>
         <mj-column>
-          <mj-text height="30"></mj-text>
+          <mj-text height="30px"></mj-text>
         </mj-column>
       </mj-section>
 
       <mj-section>
         <mj-column mj-class="bg-white" width="32%">
-          <mj-text mj-class="p grey center" padding-top="20" height="130">
+          <mj-text mj-class="p grey center" padding-top="20px" height="130px">
             <span style="font-size: 42px; color: #004c8b; font-weight: bold">2</span>
             <span><br>moduły tematyczne księgowość i&nbsp;kadry</span>
           </mj-text>
         </mj-column>
         <mj-column mj-class="bg-white" width="32%">
-          <mj-text mj-class="p grey center" padding-top="20" height="130">
+          <mj-text mj-class="p grey center" padding-top="20px" height="130px">
             <span style="font-size: 42px; color: #004c8b; font-weight: bold">70 tys.</span>
             <span><br>odpowiedzi udzielnych na&nbsp;pytania użytkowników</span>
           </mj-text>
         </mj-column>
         <mj-column mj-class="bg-white" width="32%">
-          <mj-text mj-class="p grey center" padding-top="20" height="130">
+          <mj-text mj-class="p grey center" padding-top="20px" height="130px">
             <span style="font-size: 42px; color: #004c8b; font-weight: bold">100%</span>
             <span><br>wiarygodności i&nbsp;aktualności</span>
           </mj-text>
@@ -235,7 +235,7 @@
       <!-- Spacer -->
       <mj-section>
         <mj-column>
-          <mj-text height="30"></mj-text>
+          <mj-text height="30px"></mj-text>
         </mj-column>
       </mj-section>
 
@@ -243,7 +243,7 @@
       <!-- MJ-Table section -->
       <mj-section>
         <mj-column mj-class="bg-white">
-          <mj-text mj-class="h" padding-top="20">
+          <mj-text mj-class="h" padding-top="20px">
             Co zawierają harmonogramy?
           </mj-text>
         </mj-column>
@@ -253,7 +253,7 @@
           <mj-table>
             <tr>
               <td class="icon">
-                <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+                <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57px" height="58px" border="none">
                 </img>
               </td>
               <td class="table">
@@ -265,7 +265,7 @@
             </tr>
             <tr>
               <td class="icon">
-                <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+                <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57px" height="58px" border="none">
                 </img>
               </td>
               <td class="table">
@@ -277,7 +277,7 @@
             </tr>
             <tr>
               <td class="icon">
-                <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+                <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57px" height="58px" border="none">
                 </img>
               </td>
               <td class="table">
@@ -289,7 +289,7 @@
             </tr>
             <tr>
               <td class="icon">
-                <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57" height="58" border="none">
+                <img src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7Bd634e228-baee-4dbe-968c-2cecbf7590e9%7D_Icon3.png" alt="Pobierz mnie" width="57px" height="58px" border="none">
                 </img>
               </td>
               <td class="table">
@@ -306,17 +306,17 @@
       <!-- Spacer -->
       <mj-section>
         <mj-column>
-          <mj-text height="30"></mj-text>
+          <mj-text height="30px"></mj-text>
         </mj-column>
       </mj-section>
 
       <!-- Multi-level section -->
       <mj-section>
         <mj-column width="96%" mj-class="bg-white">
-          <mj-text mj-class="h" padding-top="30" padding-bottom="0">
+          <mj-text mj-class="h" padding-top="30px" padding-bottom="0px">
             W opracowaniach znajdują się harmonogramy dla dyrektorów szkół podstawowych, gimnazjów, szkół policealnych; odnoszę się one do:
           </mj-text>
-          <mj-text mj-class="p" padding-left="5" padding-top="0" padding-bottom="0">
+          <mj-text mj-class="p" padding-left="5px" padding-top="0px" padding-bottom="0px">
             <ul>
               <li>
                 <p>Ruchu kadrowego nauczycieli i pracowników niepedagogicznych
@@ -344,20 +344,20 @@
       </mj-section>
       <mj-section mj-class="bg-darkblue">
         <mj-column width="90%" mj-class="bg-white">
-          <mj-text height="30">
+          <mj-text height="30px">
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section mj-class="bg-darkblue">
         <mj-column width="20%">
-          <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B3fee7ef5-0539-4abe-a17f-dde904da1b60%7D_SPRING-805_Icon_4.gif" align="center" padding-top="50" height="100" width="100">
+          <mj-image src="https://img06.en25.com/EloquaImages/clients/WoltersKluwer/%7B3fee7ef5-0539-4abe-a17f-dde904da1b60%7D_SPRING-805_Icon_4.gif" align="center" padding-top="50px" height="100px" width="100px">
           </mj-image>
         </mj-column>
         <mj-column width="70%" mj-class="bg-darkblue">
-          <mj-text mj-class="h white big bold" padding-bottom="0">
+          <mj-text mj-class="h white big bold" padding-bottom="0px">
             <p>86% użytkowników</p>
           </mj-text>
-          <mj-text mj-class="h white" padding-top="0" padding-bottom="20">wysoko ocenia działanie infolinii merytorycznej
+          <mj-text mj-class="h white" padding-top="0px" padding-bottom="20px">wysoko ocenia działanie infolinii merytorycznej
           </mj-text>
         </mj-column>
       </mj-section>
@@ -373,7 +373,7 @@
       <!-- Spacer -->
       <mj-section>
         <mj-column>
-          <mj-text height="30">
+          <mj-text height="30px">
           </mj-text>
         </mj-column>
       </mj-section>
@@ -381,11 +381,11 @@
       <!-- PS Section -->
       <mj-section mj-class="bg-grey">
         <mj-column width="20%">
-          <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B937a9b33-795b-4c43-8559-017c09bff07b%7D_SPRING-889_PS.jpg" alt="Post Scriptum" padding-top="15" width="77" height="77" border="none">
+          <mj-image src="http://images.go.wolterskluwer.com/EloquaImages/clients/WoltersKluwer/%7B937a9b33-795b-4c43-8559-017c09bff07b%7D_SPRING-889_PS.jpg" alt="Post Scriptum" padding-top="15px" width="77px" height="77px" border="none">
           </mj-image>
         </mj-column>
         <mj-column width="76%">
-          <mj-text mj-class="p" padding-top="0">
+          <mj-text mj-class="p" padding-top="0px">
             <p><strong>Pamiętaj, że nasi konsultanci PRZEZ CAŁY CZAS pozostają do Twojej dyspozycji</strong> w zakresie pytań związanych z&nbsp;technicznym funkcjonowaniem oprogramowania Kancelaria Notarialna.</p>
           </mj-text>
         </mj-column>
@@ -394,7 +394,7 @@
       <!-- Spacer -->
       <mj-section>
         <mj-column>
-          <mj-text height="20"></mj-text>
+          <mj-text height="20px"></mj-text>
         </mj-column>
       </mj-section>
 
