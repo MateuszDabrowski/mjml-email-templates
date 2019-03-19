@@ -1,0 +1,31 @@
+<mj-section background-color="#2b2b38" padding-top="10px" padding-bottom="10px">
+  <mj-group>
+    <mj-column width="50%">
+      <mj-text align="left" color="#b2b2b2" font-size="18px" padding="0px 30px">
+        <p>Links</p>
+        <span style="font-family:Arial,sans-serif; font-size:14px; line-height:16px; font-weight:normal; color:#fffffe" valign="top" padding="0px"><a href="https://flow.collab.sanofi.com/cs/MCE-Plan/Lists/Campaigns/AllItems.aspx" style="color:#fffffe; text-decoration:none" target="_blank"><p>Demand Tool</p></a></span>
+        <span style="font-family:Arial,sans-serif; font-size:14px; line-height:16px; font-weight:normal; color:#fffffe;" valign="top" padding="0px"><a href="https://flow.collab.sanofi.com/cs/MCE-Plan/Shared Documents/Forms/AllItems.aspx?RootFolder=%2Fcs%2FMCE%2DPlan%2FShared%20Documents%2FSERVICE%20CATALOG%2F1%20%2D%20Campaigns%2FWave%203&FolderCTID=0x012000AE0A65E138275D45AA2280E02C4A0FD2&View=%7BDE33F8E2%2DF561%2D43E6%2D8321%2D226BEB37CE01%7D" style="color:#fffffe; text-decoration:none" class="white-link" target="_blank"><p>User Guides</p></a></span>
+        <span style="font-family:Arial,sans-serif; font-size:14px; line-height:16px; font-weight:normal; color:#fffffe;" valign="top" padding="0px"><a href="https://flow.collab.sanofi.com/sites/mcep/Blueprints/Forms/AllItems.aspx" style="color:#fffffe; text-decoration:none" class="white-link" target="_blank"><p>Blueprints</p></a></span>
+      </mj-text>
+    </mj-column>
+    <mj-column width="50%">
+      <mj-text align="left" color="#b2b2b2" font-size="18px" padding="0px 30px">
+        <p>Meet us</p>
+        <span style="font-family:Arial,sans-serif; font-size:14px; line-height:16px; font-weight:normal; color:#fffffe;" valign="top" padding="0px"><a href="https://flow.collab.sanofi.com/cs/MCE-Plan/SitePages/Home.aspx" style="color:#fffffe; text-decoration:none" class="white-link" target="_blank"><p>MCE Sharepoint</p></a></span>
+        <span style="font-family:Arial,sans-serif; font-size:14px; line-height:16px; font-weight:normal; color:#fffffe;" valign="top" padding="0px"><a href="https://www.yammer.com/sanofi.com/#/threads/inGroup?type=in_group&feedId=12887782" style="color:#fffffe; text-decoration:none" class="white-link" target="_blank"><p>MCE Yammer</p></a></span>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+  <mj-column width="50%" vertical-align="top">
+    <mj-text align="center" color="#b2b2b2" font-size="18px" padding-top="40px">
+      <a href="https://www.sanofi.com/" style="border:0px; outline:none;" target="_blank"><img alt="Sanofi" src="<%@ value object='provider' xpath='@publicResUrl' %>/res/<%@ include option='NmsTracking_Instance' %>/MCE_02122019_nslLogo.png" style="border:0; outline:none;" /></a>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#525ca3" padding-top="15px" padding-bottom="15px">
+  <mj-column width="100%" vertical-align="top">
+    <mj-text align="center" color="#fffffe" font-size="14px">
+     Let us know what do you think about the newsletter by filling the <a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.surveymonkey.com_r_Z7VYMRC&d=DwMF-g&c=Dbf9zoswcQ-CRvvI7VX5j3HvibIuT3ZiarcKl5qtMPo&r=rrrMFWNQgQaoqfeoMrJUKJPrOHp-LMnsiYYLKPRozpo&m=T08RJsu4iWUndrSnDMDhZZ6mtnesjZj0K0Md4D4uEhk&s=jLENYPiDbLiljI6RmZXUu-QPKDR0R32ufpxXK5r-8vQ&e=" class="white-link" style="color:#fffffe; font-weight:bold; text-decoration:underline !important" target="_blank">survey</a> 📋
+    </mj-text>
+  </mj-column>
+</mj-section>
