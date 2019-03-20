@@ -1,0 +1,31 @@
+<mj-section background-color="#2b2b38" padding-top="10px" padding-bottom="10px">
+  <mj-group>
+    <mj-column width="50%">
+      <mj-text align="left" color="#b2b2b2" font-size="18px" padding="0px 30px">
+        <p>Links</p>
+        <span style="font-family:Arial,sans-serif; font-size:14px; line-height:16px; font-weight:normal; color:#fffffe" valign="top" padding="0px"><a href="https://mateuszdabrowski.pl/" style="color:#fffffe; text-decoration:none" target="_blank"><p>Demand Tool</p></a></span>
+        <span style="font-family:Arial,sans-serif; font-size:14px; line-height:16px; font-weight:normal; color:#fffffe;" valign="top" padding="0px"><a href="https://mateuszdabrowski.pl/" style="color:#fffffe; text-decoration:none" class="white-link" target="_blank"><p>User Guides</p></a></span>
+        <span style="font-family:Arial,sans-serif; font-size:14px; line-height:16px; font-weight:normal; color:#fffffe;" valign="top" padding="0px"><a href="https://mateuszdabrowski.pl/" style="color:#fffffe; text-decoration:none" class="white-link" target="_blank"><p>Blueprints</p></a></span>
+      </mj-text>
+    </mj-column>
+    <mj-column width="50%">
+      <mj-text align="left" color="#b2b2b2" font-size="18px" padding="0px 30px">
+        <p>Meet us</p>
+        <span style="font-family:Arial,sans-serif; font-size:14px; line-height:16px; font-weight:normal; color:#fffffe;" valign="top" padding="0px"><a href="https://mateuszdabrowski.pl/" style="color:#fffffe; text-decoration:none" class="white-link" target="_blank"><p>MCE Sharepoint</p></a></span>
+        <span style="font-family:Arial,sans-serif; font-size:14px; line-height:16px; font-weight:normal; color:#fffffe;" valign="top" padding="0px"><a href="https://mateuszdabrowski.pl/" style="color:#fffffe; text-decoration:none" class="white-link" target="_blank"><p>MCE Yammer</p></a></span>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+  <mj-column width="50%" vertical-align="top">
+    <mj-text align="center" color="#b2b2b2" font-size="18px" padding-top="40px">
+      <a href="https://www.sanofi.com/" style="border:0px; outline:none;" target="_blank"><img alt="Sanofi" src="http://sanofi-mkt-stage1-res.adobe-campaign.com/res/sanofi_mkt_stage1/MCE_02122019_nslLogo.png" style="border:0; outline:none;" /></a>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#525ca3" padding-top="15px" padding-bottom="15px">
+  <mj-column width="100%" vertical-align="top">
+    <mj-text align="center" color="#fffffe" font-size="14px">
+     Let us know what do you think about the newsletter by filling the <a href="https://mateuszdabrowski.pl/" class="white-link" style="color:#fffffe; font-weight:bold; text-decoration:underline !important" target="_blank">survey</a> 📋
+    </mj-text>
+  </mj-column>
+</mj-section>

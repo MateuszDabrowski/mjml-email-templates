@@ -18,8 +18,11 @@ WK\ Szkolenia
 WK\ OPE
 WK\ Tests
 MCE NSL
+SNFI RUS
+
 #Ignored Files
 emoji.html
+mce-footer.mjml
 
 #Node
 node_modules
