@@ -87,7 +87,7 @@
       <!-- Main image -->
       <mj-section>
         <mj-column>
-          <mj-image src="http://sanofi-mkt-stage1-res.adobe-campaign.com/res/sanofi_mkt_stage1/MCE_02122019_nslHeader.png" href="https://mateuszdabrowski.pl/" alt="MCE Campaign Service Monthly Newsletter" align="center" border="none" width="600px">
+          <mj-image src="http://sanofi-mkt-stage1-res.adobe-campaign.com/res/sanofi_mkt_stage1/MCE_02122019_nslHeader.png" href="https://mateuszdabrowski.pl/" alt="MCE Campaign Service Monthly Newsletter" align="center" border="none" width="576px">
           </mj-image>
         </mj-column>
       </mj-section>
@@ -101,7 +101,6 @@
           </mj-text>
         </mj-column>
       </mj-section>
-
 
       <!-- Spacer -->
       <mj-section>
@@ -286,7 +285,7 @@
       </mj-section>
       <mj-section>
         <mj-column width="100%">
-          <mj-image src="http://sanofi-mkt-stage1-res.adobe-campaign.com/res/sanofi_mkt_stage1/MCE_02122019_nslRecording.png" align="center" border="none" width="600px" href="https://mateuszdabrowski.pl/" alt="User Guide for Campaign Delivery Process in Jira">
+          <mj-image src="http://sanofi-mkt-stage1-res.adobe-campaign.com/res/sanofi_mkt_stage1/MCE_02122019_nslRecording.png" align="center" border="none" width="576px" href="https://mateuszdabrowski.pl/" alt="User Guide for Campaign Delivery Process in Jira">
             </mj-image>
        </mj-column>
     </mj-section>

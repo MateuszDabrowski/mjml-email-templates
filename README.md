@@ -4,8 +4,8 @@ All that is needed to create unique e-mail using MJML
 
 ## MJML Version
 
-Wolters Kluwer files are created and maintained in MJML3
-Sanofi files are created and maintained in MJML4
+Wolters Kluwer files are created and maintained in MJML3 (Templates v2.3)
+Sanofi files are created and maintained in MJML4 (Templates v0.1)
 
 ## Folder Structure
 
@@ -15,7 +15,7 @@ Sanofi files are created and maintained in MJML4
   - Mail Folder 1 (subfolder with custom e-mails using includes)
   - Mail Folder 2 (subfolder with custom e-mails using includes)
 
-Do not create sub-subfolders unless just for archivisation needs as it will brake relative links to WK Includes.
+Do not create sub-subfolders unless just for archiving needs as it will brake relative links to Include files.
 
 ## Additional Info
 
