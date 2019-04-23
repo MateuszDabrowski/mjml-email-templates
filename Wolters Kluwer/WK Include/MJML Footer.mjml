@@ -1,7 +1,7 @@
 <mj-section background-color="#767676">
         <mj-column width="95%" vertical-align="top">
           <mj-text color="#ffffff" padding="10px">
-            Wolters Kluwer Polska Sp. z o.o., <a href="" class="white-link" style="text-decoration:none;border:none;color:#ffffff;">01&#8209;208 Warszawa, ul. Przyokopowa 33</a>, <a href="http://www.wolterskluwer.pl" class="white-link" style="color:#ffffff;">www.wolterskluwer.pl</a>, e&#8209;mail: <a href="mailto:handel@wolterskluwer.pl" target="_blank" class="white-link" style="color:#ffffff;">handel@wolterskluwer.pl</a>; NIP:&nbsp;583&#8209;001&#8209;89&#8209;31; Regon:&nbsp;190610277; Sąd Rejonowy dla m.&#8203;st. Warszawy XII Wydział Gospodarczy Krajowego Rejestru Sądowego, numer KRS&nbsp;0000709879, Kapitał zakładowy 15.000.524&nbsp;PLN
+            Wolters Kluwer Polska Sp. z o.o., <a href="" class="white-link" style="text-decoration:none;border:none;color:#ffffff;">01&#8209;208 Warszawa, ul. Przyokopowa 33</a>, <a href="http://www.wolterskluwer.pl" class="white-link" style="color:#ffffff;">www.wolterskluwer.pl</a>, e&#8209;mail: handel@wolterskluwer.pl; NIP:&nbsp;583&#8209;001&#8209;89&#8209;31; Regon:&nbsp;190610277; Sąd Rejonowy dla m.&#8203;st. Warszawy XII Wydział Gospodarczy Krajowego Rejestru Sądowego, numer KRS&nbsp;0000709879, Kapitał zakładowy 15.000.524&nbsp;PLN
           </mj-text>
         </mj-column>
       </mj-section>
