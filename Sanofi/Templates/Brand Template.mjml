@@ -211,13 +211,12 @@
             </mj-column>
         <mj-column width="42%" mj-class="bg-blue">
           <mj-text mj-class="p white"  padding="0px 10px">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
               <ol>
                 <li>Aliquam <b>consectetur lorem</b> a erat blandit</li>
                 <li>a suscipit metus rutrum</li>
                 <li>delivery of <b>creatives</b>.</li>
               </ol>
-            </p>
             <p>Nulla vehicula posuere massa at viverra.</p>
           </mj-text>
         </mj-column>
